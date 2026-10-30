@@ -1,0 +1,8 @@
+{
+  "name": "linguagem-simples",
+  "version": "1.0.0",
+  "description": "Skills para escrever em linguagem simples (pt-BR) e tirar a cara de IA dos textos.",
+  "author": { "name": "Fabio Fogliarini Brolesi" },
+  "license": "MIT",
+  "keywords": ["linguagem simples", "plain language", "pt-BR", "redação oficial", "humanizar", "IA"]
+}

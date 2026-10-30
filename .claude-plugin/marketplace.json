@@ -1,0 +1,16 @@
+{
+  "name": "linguagem-simples",
+  "owner": {
+    "name": "Fabio Fogliarini Brolesi"
+  },
+  "metadata": {
+    "description": "Skills de linguagem simples e de revisão anti-IA para textos em português do Brasil."
+  },
+  "plugins": [
+    {
+      "name": "linguagem-simples",
+      "source": "./",
+      "description": "Skills para escrever em linguagem simples (pt-BR) e tirar a cara de IA dos textos."
+    }
+  ]
+}

@@ -1,0 +1,645 @@
+﻿O material anexo foi adaptado pelo Laboratório de Acessibilidade - LABACES da UNICAMP - Universidade Estadual de Campinas. Esse serviço encontra-se ancorado na Lei de Inclusão Brasileira no 13.146 de 06 de julho de 2015, Lei dos Direitos Autorais no 9.610 de 19 de fevereiro de 1998, e o Tratado de Marraqueche, promulgado por meio do Decreto no 9.522/2018.
+
+
+GUIA DE ATRIBUTOS E ELEMENTOS DA REDAÇÃO OFICIAL
+
+
+REITOR - Antonio José de Almeida Meirelles
+COORDENADORA GERAL DA UNIVERSIDADE - Maria Luiza Moretti
+PRÓ-REITOR DE DESENVOLVIMENTO UNIVERSITÁRIO - Fernando Sarti
+PRÓ-REITOR DE EXTENSÃO, ESPORTE E CULTURA - Fernando Antonio Santos Coelho
+PRÓ-REITOR DE GRADUAÇÃO - Ivan Felizardo Contrera Toro
+PRÓ-REITORA DE PÓS-GRADUAÇÃO - Rachel Meneguello
+PRÓ-REITORA DE PESQUISA - Ana Maria Frattini Fileti
+CHEFE DE GABINETE - Paulo César Montagner
+CHEFE DE GABINETE ADJUNTA - Adriana Nunes Ferreira
+
+
+Este guia foi elaborado pelo Grupo de Trabalho designado para mapear, analisar e revisar modelos documentais já usados nas Unidades e Órgãos, com o objetivo de uniformizar e simplificar a produção dos atos administrativos e de comunicação no âmbito da Unicamp.
+
+
+Grupo de Trabalho instituído pela Portaria CGU número 01/2023:
+Thiago Pinheiro Rosa (FT e Instrutor Educorp) – Presidente
+Ana Carolina Braz Moitinho (HC)
+Angela Noronha Bignami (SG)
+Ana Paula Montagner (CGU)
+Carlos Renato Paraizo (DGRH)
+Décio Henrique Franco (FOP)
+Edimilson Montalti (HC)
+Fábio Rodrigo Pinheiro da Silva (SIC)
+Girlene Otaviano Costa de Rosso (FEQ)
+Grazielle Cássia Alves de Souza (GGBS)
+Janaína Adiara Santos (SIARQ)
+Luiz Carlos Fernandes (GGBS)
+Patricia Ferrari Schedenffeldt (DGA)
+Roberta Cristina Dal’Evedove Tartarotti (SBU)
+
+
+Página 01.
+Sumário
+1 -  Panorama da Redação Oficial - página 02
+    1.1 - O que é Redação Oficial? - página 02
+    1.2 - Atributos da redação Oficial - página 03
+2 - Objetividade - página 03 
+     2.1 - Técnicas para obtenção da Objetividade - página 03
+3 -  Clareza, Concisão e Coesão - Os Três “Cês” - página 05
+     3.1 -  Clareza - página 05
+     3.2 - Concisão - página 05
+     3.3 - Coesão - página 06
+4 -  Impessoalidade - página 08
+________________
+Página 2.
+5 - Formalidade e padronização - página 08
+6 - Modernização e atualização das comunicações públicas - página 09
+      6.1 - Verbosidade - página 09
+      6.2 - Chavões - página 11
+      6.3 - Coloquialismo excessivo - página 12
+7 - Elementos da Redação Oficial - página 12
+      7.1 - Local e data do documento - página 12
+      7.2 - Unidades de medida e hora - página 14
+      7.3 - Formas de Tratamento - página 15
+      7.4 - Endereçamento - página 17
+      7.5 - Texto de introdução e saudação/fecho - página 18
+      7.6 - Identificação da pessoa que assina - página  19
+      7.7 - Abreviaturas - página 20
+      7.8 -Siglas - páginas 21
+      7.9 - Letras minúsculas e maiúsculas - página 23
+8 - Referências bibliográficas - página 23
+
+
+1 - Panorama da Redação Oficial
+1.1 - O que é Redação Oficial?
+A Redação Oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos. Sua finalidade básica é comunicar com objetividade e máxima clareza, promovendo pleno entendimento.
+Dentro de um fluxograma que representa a forma de funcionamento da Redação Oficial, ele pode ser esboçado da seguinte forma:
+________________
+Página 3.
+As Comunicações oficiais e atos normativos estão diretamente relacionadas ao Emissor, relacionado ao Serviço público e de outro lado, um Receptor, que se trata do Público em geral, instituições públicas ou privadas.
+
+
+1.2 - Atributos da Redação Oficial
+A Redação Oficial deve caracterizar-se por:
+• - Objetividade;
+• - Clareza, concisão e coesão;
+• - Impessoalidade;
+• - Formalidade e padronização;
+• - Uso da norma-padrão da Língua Portuguesa.
+
+
+2 - Objetividade
+Ser objetivo é ir diretamente ao assunto que se deseja abordar, sem voltas e sem redundâncias. Para conseguir isso, é fundamental que a redatora ou redator saibam qual é a ideia principal e quais são as secundárias desde o planejamento da redação.
+2.1 - Técnicas para obtenção da Objetividade
+Primeira etapa: Identificar a ideia principal
+A ideia principal precisa estar muito bem definida para que o texto consiga expressar sua mensagem. Por isso, ela não pode deixar de ser transmitida, ou não conseguiremos a resposta esperada.
+Para identificar uma ou várias ideias principais da mensagem que se deseja transmitir, formule a seguinte pergunta:
+________________
+
+
+Página 4.
+“O que eu preciso dizer à destinatária ou ao destinatário?”
+A resposta a essa pergunta indicará a ideia principal da mensagem.
+Esta primeira orientação é fundamental para que o texto seja redigido com objetividade e atenda tanto à necessidade da destinatária ou do destinatário quanto à eficácia da emissora ou do emissor.
+
+
+Segunda etapa: Identificar as ideias secundárias
+Ideia secundária é aquela que ajuda a entender a mensagem, explicando o motivo por trás da comunicação ou adicionando uma sensibilidade a ela.
+Vale ressaltar que, caso a ideia secundária não esteja presente, o entendimento e a eficácia da mensagem não ficam comprometidos.
+Para identificar quais ideias podem ajudar a leitora ou o leitor na assimilação da mensagem, formule a seguinte pergunta:
+“Quais informações podem ajudar a destinatária ou o destinatário na boa assimilação da minha mensagem?”
+Observe que, ao usar as respostas a essa pergunta, você estará adicionando elementos persuasivos para tornar sua mensagem mais eficaz.
+
+
+Terceira etapa – Retirar do texto todas as ideias terciárias
+Ideia terciária é aquela que atrapalha a assimilação das ideias principais.
+Muitas vezes, por estarmos envolvidos pelo contexto, somos influenciados por várias ideias que julgamos interessantes. Entretanto, as ideias terciárias podem atrapalhar a leitora ou o leitor na assimilação da ideia principal, em vez de auxiliá-los.
+
+
+________________
+
+
+Página 5.
+3 - Clareza, Concisão e Coesão - Os três “Cês”
+3.1 - Clareza
+A clareza é o atributo que possibilita a imediata compreensão pelo público-alvo.
+Para a obtenção de clareza, sugere-se:
+• - Utilizar palavras e expressões simples, em seu sentido comum, salvo quando o texto tratar sobre assunto técnico, hipótese em que se utilizará nomenclatura própria da área.
+• - Usar frases curtas, bem estruturadas; apresentar as orações na ordem direta (sujeito, verbo e complemento), evitando exageros ou criação de palavras.
+• - Buscar a uniformidade do tempo verbal em todo o texto.
+• - Não utilizar regionalismos e neologismos (termos recém-criados ou palavras já existentes na língua, mas que assumem um novo significado).
+• - Pontuar adequadamente o texto.
+• - Explicitar o significado da sigla na primeira referência a ela.
+• - Utilizar palavras e expressões em outro idioma apenas quando indispensáveis, em razão de serem designações ou expressões de uso já consagrado ou de não terem exata tradução. Neste caso, destaque-as utilizando itálico.
+
+
+3.2 - Concisão
+A concisão é uma qualidade essencial no texto oficial, caracterizada por transmitir o máximo de informações com o mínimo de palavras. Não deve ser confundida com economia de pensamento, mas sim como a exclusão de partes que não contribuem para o conteúdo já expresso.
+________________
+
+
+Página 6.
+Para se produzir um texto conciso, sugere-se:
+• - Conhecer o assunto sobre o qual se escreve.
+• - Eliminar palavras inúteis, redundâncias, além de evitar caracterizações excessivas e advérbios inúteis.
+• - Manter o emprego cuidadoso de adjetivos, sem exageros.
+• - Articular a linguagem e a técnica, demonstrando perfeita compreensão do objetivo do texto.
+• - Expressar a ideia, evitando o emprego de repetição de palavras por meio do uso de sinônimos.
+• - Usar os recursos de pontuação e as regras gramaticais de forma correta e sensata.
+
+
+3.3 - Coesão
+A coesão representa a ligação e harmonia entre os elementos de um texto. Você percebe que um texto tem coesão e coerência quando as palavras, frases e parágrafos estão conectados, fluindo suavemente durante a leitura.
+Alguns mecanismos que estabelecem a coesão e a coerência de um texto são:
+referência, substituição e uso de conjunção (conectivos)
+• - Referência é quando um termo está ligado a outros para facilitar sua compreensão. Isso pode acontecer ao retomar um termo já mencionado, relacioná-lo com o que foi dito anteriormente no texto ou ao antecipar um termo que depende do que virá a seguir.
+Exemplos: A deputada evitou a instalação da CPI da corrupção. Ela aguardou a decisão do Plenário.
+________________
+
+
+Página 7.
+O TCU apontou estas irregularidades: falta de assinatura e de identificação no documento.
+• - Substituição é quando um item de referência é colocado no lugar de outro item ou até mesmo de uma oração inteira.
+Exemplos: O presidente assinou o acordo. O chefe do Poder Executivo Federal propôs reduzir as alíquotas.
+O ofício está pronto. O documento trata da exoneração do servidor.
+• - Outra estratégia para proporcionar coesão e coerência ao texto é utilizar conjunção (conectivo) para estabelecer ligação entre orações, períodos ou parágrafos.
+Exemplo: A embaixadora compareceu à reunião, pois identificou o interesse de seu Governo pelo assunto.
+
+
+Características da Coesão
+Coerência nas palavras: A coerência se estabelece pelo significado das palavras na frase. Algumas palavras se encaixam bem umas com as outras, enquanto outras não. Portanto, é importante escolher o vocabulário com cuidado.
+Coerência nas orações: A coerência também é fundamental na construção das frases e na conexão entre elas. Existem diversas palavras que podem ser usadas para fortalecer o texto, criando uma ligação clara entre as orações. Chamadas de conectivos ou conjunções, essas palavras também aumentam a persuasão da mensagem, destacando os vínculos de significado.
+Coerência nos parágrafos: Outro aspecto importante para a coerência é a sequência das ideias ao longo do texto. As partes do texto devem se encaixar sem contradições. Portanto, é crucial trabalhar uma ideia por vez, antes de passar para a próxima. Planejar a mensagem é essencial para qualquer texto.
+
+
+________________
+
+
+Página 8.
+4 - Impessoalidade
+Impessoalidade é a abordagem dos assuntos de forma neutra e desvinculada de interesses pessoais. Na Redação Oficial, os assuntos são tratados em nome do serviço público e em benefício da sociedade em geral. Isso significa que o texto oficial deve ser isento de opiniões individuais ou sentimentos pessoais, mantendo-se estritamente focado nos interesses coletivos e no cumprimento das normas estabelecidas.
+
+
+Características da impessoalidade
+Ausência de impressões individuais de quem comunica: É sempre redigida em nome do serviço público a que se refere a comunicação;
+Impessoalidade de quem recebe a comunicação: A destinatária e o destinatário devem ser sempre tratados de forma transparente e impessoal;
+Caráter impessoal do assunto tratado: O tema das comunicações oficiais é, basicamente, assunto relativo às competências do órgão de onde parte a comunicação.
+Na Redação Oficial, não se incluem impressões pessoais, como aquelas compartilhadas em mensagens cotidianas com amigos, ou em outros tipos de comunicação, como nas mídias sociais.
+
+
+5 - Formalização e padronização
+        As comunicações administrativas devem obedecer a certas regras de forma, seja em meio eletrônico ou em documentos impressos. Isso é importante para garantir uniformidade, inclusive de tratamento, nas comunicações. O uso da linguagem padrão é fundamental na Redação Oficial, pois supera as diferenças regionais e linguísticas.
+________________
+
+
+Página 9.
+Recomendações:
+A língua culta é contra a pobreza de expressão e não contra a sua simplicidade.
+Utilizar o padrão culto não implica em tornar a linguagem rebuscada, usando expressões excessivamente elaboradas ou termos em desuso.
+Consultar o dicionário e a gramática é fundamental para escrever um texto de qualidade.
+6 - Modernização e atualização das comunicações públicas
+Existem práticas que prejudicam de forma significativa a clareza, objetividade e formalidade dos textos públicos. Mesmo com as transformações da escrita, ainda há uma grande dificuldade em fazer a substituição de termos considerados “ultrapassados”, assim como evitar exageros na formalidade ou informalidade do conteúdo gerado.
+Sendo assim, aparecem como principais problemas a verbosidade, os chavões e o coloquialismo excessivo.
+6.1 - Verbosidade
+A verbosidade ocorre quando se diz de forma complexa o que pode ser dito de maneira mais simples. São textos que apresentam informações simples escritas de modo rebuscado, dando a impressão de ostentação da linguagem culta.
+Tabela: Verbosidade
+Expressões evitáveis: supracitado. Substituir por: citado.
+Expressões evitáveis: acima citado. Substituir por: citado.
+Expressões evitáveis: encarecemos a V. S.. Substituir por: solicitamos.
+Expressões evitáveis: somos de opinião de que. Substituir por: acreditamos, consideramos.
+________________
+Página 10.
+Expressões evitáveis: temos em nosso poder. Substituir por: recebemos.
+Expressões evitáveis: temos a informar que. Substituir por: informamos.
+Expressões evitáveis: o assunto em epígrafe. Substituir por: o assunto citado.
+Expressões evitáveis: levamos a seu conhecimento. Substituir por: informamos.
+Expressões evitáveis: causou-nos espécie a decisão. Substituir por: causou-nos estranheza.
+Expressões evitáveis: consternou-nos profundamente. Substituir por: lamentamos profundamente.
+Expressões evitáveis: devido ao fato de que. Substituir por: devido a; por causa de.
+Expressões evitáveis: para dirimir dúvidas. Substituir por: para esclarecer dúvidas.
+Expressões evitáveis: precípua. Substituir por: principal.
+Expressões evitáveis: destarte. Substituir por: desta forma; desta maneira.
+Expressões evitáveis: aprazada. Substituir por: dentro do prazo; limite.
+Expressões evitáveis: desiderato colimado. Substituir por: objetivo.
+Expressões evitáveis: aproveitando o ensejo, anexamos. Substituir por: anexamos.
+Expressões evitáveis: via de regra, os procedimentos. Substituir por: geralmente, os procedimentos.
+Expressões evitáveis: antecipadamente somos gratos. Substituir por: agradecemos.
+________________
+
+
+Página 11.
+6.2 - Chavões
+Um texto que recorre a chavões repete informações geralmente conhecidas, o que pode sugerir uma familiaridade excessiva com o tema e levar à diminuição da atenção e importância dada às informações. Portanto, o uso de clichês não apenas torna o texto antiquado, mas também reduz sua capacidade de envolver as pessoas.
+Exemplo: Outrossim, anexamos a este ofício a cópia do comprovante de vencimentos.
+*Esse vocábulo é, hoje em dia, inadequado. Evite usá-lo.
+Substituições: Igualmente; também; bem assim; da mesma forma; da mesma maneira; entre outras.
+Tabela: Chavões na Introdução
+Expressão: Vimos, através desta, solicitar. Problema na expressão: Chavão de uso contínuo, absolutamente dispensável. Substituição: Solicitamos.
+Expressão: Venho, pelo presente, solicitar. Problema na expressão: Já que ausente não se solicita nada, a expressão “pelo presente” torna-se óbvia e absolutamente dispensável. Substituição: Solicito.
+Expressão: Solicitamos à V.Sa. (Vossa Senhoria) a inclusão de. Problema na expressão: O pronome de tratamento V.Sa. deve ser utilizado apenas quando o destinatário exigir tal formalidade. Substituição: Solicitamos a inclusão/Solicitamos à(ao) senhora(senhor) a inclusão
+Expressão: Acusamos o recebimento de. Problema na expressão: Atualmente, não se utiliza mais nos textos públicos/ empresariais o verbo “acusar”. Substituição: Confirmamos o recebimento de
+Expressão: Reiteramos os protestos de elevada estima e consideração. Problema na expressão: Essa conclusão, exemplo clássico de chavão utilizado em ofícios e, insistentemente, por setores do judiciário, passou a ser considerada anacrônica (ultrapassada) em 1982, 
+________________
+Página 12.
+quando a Instrução Normativa no 133, do Departamento de Administração do serviço público, recomendou sua substituição por outras mais simples. Substituição: Expressão de acordo com o contexto (Agradecemos o auxílio, Agradecemos a contribuição, Contamos com seu apoio).
+Expressão: Sem mais para o momento. Problema na expressão: Quando se analisa o significado dessa frase, percebe-se que ela indica de maneira rude que não se tem mais nada a acrescentar. Substituição: Saudação final (Atenciosamente, Cordialmente).
+
+
+6.3 - Coloquialismo excessivo
+        O coloquialismo se refere à linguagem informal que usamos em contextos familiares e entre amigos, durante momentos de lazer e convívio. No entanto, em comunicações formais do serviço público, como e-mails, o uso excessivo de linguagem coloquial pode causar problemas na comunicação.
+A informatização e a tecnologia mudaram a forma como nos comunicamos, levando a uma linguagem mais ágil e próxima do coloquialismo, tanto nas empresas quanto no serviço público. Embora a simplicidade na linguagem seja importante, o excesso de informalidade não é adequado.
+O coloquialismo excessivo pode gerar problemas como falta de credibilidade da informação, confusão sobre a responsabilidade das ações, uma imagem negativa do emissor da mensagem e falta de profissionalismo com o receptor.
+
+
+7 - Elementos da Redação Oficial
+
+
+7.1 - Local e data do documento
+Na grafia de local e data em um documento, o conteúdo deve constar da seguinte forma:
+________________
+Página 13.
+Informação de local: nome da cidade onde foi expedido o documento, seguido de vírgula. Não se deve utilizar a sigla da unidade da federação depois do nome da cidade.
+Dia do mês: em numeração ordinal se for o primeiro dia do mês e em numeração cardinal para os demais dias do mês. Não se deve utilizar zero à esquerda do número que indica o dia do mês.
+Nome do mês: deve ser escrito com inicial minúscula. Exceção: indicações de datas comemorativas, quando o mês se torna um substantivo próprio.
+Exemplos: 7 de Setembro. 15 de Novembro.
+Pontuação: deve ser colocado o ponto-final depois da data e local do documento.
+Exemplos: Campinas, 1º (Primeiro) de maio de 2024.
+                 Limeira, 5 de junho de 2024.
+                 Piracicaba, 15 de julho de 2024.
+Data no corpo do texto
+
+
+Para o corpo do texto, a ABNT NBR 5892:2019 indica que os elementos devem ser grafados na seguinte ordem: dia, mês e ano. Quando os elementos forem representados somente por números, devem ser separados por ponto e sem espaço entre eles.
+Dia: deve ser indicado por extenso ou em números.
+Exemplos: dois de maio de dois mil e vinte e quatro
+                   2 de maio de 2024
+                   2 maio 2024
+Mês: deve ser grafado por extenso ou em números, ou abreviado pelas três primeiras letras, em minúsculas, seguidas de ponto, excetuando-se o mês de maio, que é escrito sempre por extenso.
+________________
+Página 14.
+Exemplos: 4 de abril de 2024
+                   04.04.2024
+                   4 abr. (abril) 2024
+Ano: deve ser grafado por extenso ou em números com quatro dígitos.
+Exemplos: quatro de abril de dois mil e vinte e quatro
+                 4 de abril de 2024
+
+
+7.2 - Unidades de medida e hora
+
+
+Símbolos das unidades de medida devem ser escritos sem ponto (exceto se estiverem no final de frases), mantendo espaço entre o símbolo e o valor numérico, com letra minúscula, após o número e sem a letra “s” para indicar o plural.
+Exemplos: 10 cm (centímetros)
+                   50 m (metros)
+                   10 g (gramas)
+                   50 kg (quilogramas)
+Para referência a horas devemos utilizar:
+Exemplos: 08h45min (oito horas e quarenta e cinco minutos) / 14h30min (duas horas e trinta minutos)
+                   13h (uma hora da tarde) / 17h (cinco horas da tarde)
+
+
+Na indicação de horas exatas não é necessária a escrita de “00” depois da
+abreviatura das horas.
+Exemplos: 6h (seis horas), 14h (horas), 20h (horas)
+
+
+A abreviatura da palavra minutos é “min” e a da palavra segundos é “s”, ambas escritas com letra minúscula, sem ponto abreviativo:
+Exemplos: 25min (minutos)
+                   45min (minutos)
+________________
+Página 15.
+                   40s (segundos)
+                   55s (segundos)
+
+
+A indicação das horas, minutos e segundos deverá ser feita de forma seguida, sem espaços que marquem a subdivisão do tempo:
+Exemplos: 18h15
+              18h15min
+              18h15min30s
+              18h15min30
+
+
+Observações:
+
+
+Não há ponto-final depois da letra “h”, pois ela é uma abreviação.
+
+
+Quando nos referimos a um tempo determinado de duração, devemos escrever a palavra horas e não usar a abreviação. Alguns autores também recomendam a escrita do número por extenso.
+Exemplos:  Eles estiveram reunidos durante 3 horas.
+         Eles estiveram reunidos durante três horas.
+         A duração da reunião será de 2 horas.
+         A duração da reunião será de duas horas.
+
+
+7.3 - Formas de tratamento
+
+
+Os pronomes de tratamento devem ser utilizados corretamente, conforme tabela abaixo:
+
+
+Autoridade: Presidenta ou Presidente da República, Senadora ou Senador, Ministra ou Ministro, Governadora ou Governador, Deputada ou Deputado Federal, Deputada ou Deputado Estadual, Prefeita ou Prefeito, Vereadora ou Vereador. Vocativo: Excelentíssima - Senhora + autoridade ou Excelentíssimo - Senhor + autoridade. Corpo do texto: Vossa Excelência. Endereçamento: A Sua Excelência a Senhora ou A Sua Excelência o Senhor.
+________________
+Página 16. 
+ Abreviatura: V. Exª ou V. Exa. Não se usa abreviatura para presidente. 
+
+
+Autoridade: Diretora ou Diretor de Autarquia Federal, Estadual e Municipal.
+Vocativo: Senhora Diretora ou Senhor Diretor. Corpo do texto: Vossa Senhoria. Endereçamento: À Senhora ou Ao Senhor. Abreviatura: V.Sª ou V.Sa.
+
+
+Autoridade: Reitora ou Reitor. Vocativo: Magnífica Reitora ou Magnífico Reitor. Corpo do texto: Vossa Magnificência. Endereçamento: A Sua Magnificência a
+Senhora ou A Sua Magnificência o Senhor. Abreviatura: V.Magª ou V. Maga.
+
+
+Autoridade: Vice-Reitora ou Vice-Reitor. Vocativo: Excelentíssima Senhora Vice-Reitora ou Excelentíssimo Senhor Vice-Reitor. Corpo do texto: Vossa
+Excelência. Endereçamento: A Sua Excelência a Senhora ou A Sua Excelência o Senhor. Abreviatura: V. Ex.ª ou V. Exa.
+
+
+Autoridade: Coordenadora Geral da Universidade ou Coordenador Geral da Universidade (Exclusivo Unicamp). Vocativo: Excelentíssima Senhora Coordenadora Geral ou Excelentíssimo Senhor Coordenador Geral. Corpo do texto: Vossa Excelência. Endereçamento: A Sua Excelência a Senhora ou A 
+Sua Excelência o Senhor. Abreviatura: V. Ex.ª ou V. Exa.
+
+
+Autoridade: Pró-Reitora ou Pró-Reitor Diretora ou Diretor Diretora Executiva ou Diretor Executivo Diretora, Diretor, Superintendente, Coordenadora ou Coordenador de Unidade e Órgão Assessora ou Assessor. Vocativo: Senhora + autoridade ou Senhor + autoridade. Corpo do texto: Vossa Senhoria Endereçamento: À Senhora ou Ao Senhor. Abreviatura: V.S.ª ou V.Sa.
+
+
+Autoridade: Demais autoridades e particulares. Vocativo: Senhora ou Senhor. Corpo do texto: Vossa Senhoria Endereçamento: À Senhora ou Ao Senhor. Abreviatura: V.S.ª ou V.Sa.
+
+
+De acordo com a última versão do Manual de Redação da Presidência da República, está abolido o uso de Digníssimo (DD) e de Ilustríssimo (Ilmo.).
+________________
+Página 17.
+
+
+7.4 - Endereçamento
+
+
+Endereçamento colocado no documento: deve constar o vocativo (na forma de tratamento adequada para quem receberá o expediente), nome da destinatária ou do destinatário (em negrito), cargo, acompanhado de lotação e sigla, instituição da destinatária ou do destinatário e endereço (quando a comunicação for dirigida para órgãos externos).
+Estrutura: Vocativo
+       Nome da destinatária ou destinatário [em negrito]
+                  Cargo da destinatária ou destinatário + lotação - sigla
+                  Instituição da destinatária ou destinatário
+                  Endereço [quando a comunicação for dirigida para órgãos externos]
+
+
+Aplicação: Excelentíssima Senhora Coordenadora Geral
+                   Maria Luiza Moretti
+                   Coordenadora Geral - Coordenadoria Geral - CGU
+                   Universidade Estadual de Campinas
+Endereçamento colocado em envelopes: deve conter as informações abaixo, dispostas em sequência.
+        Mesma instituição (Unidades e Órgãos da Unicamp): preposição e artigo (À ou Ao), pronome de tratamento e nome da destinatária ou destinatário (em negrito), cargo da destinatária ou destinatário, acompanhado de lotação e sigla, além da instituição da destinatária ou destinatário.
+
+
+Estrutura para mesma instituição:
+Preposição + artigo [À ou Ao]
+Pronome de tratamento + Nome da destinatária ou destinatário [em negrito]
+Cargo da destinatária ou destinatário + lotação - sigla
+Instituição da destinatária ou destinatário
+
+
+________________
+
+
+Página 18.
+Aplicação para mesma instituição:
+Ao
+Senhor Pró-Reitor Fernando Sarti
+Pró-Reitor - Pró-Reitoria de Desenvolvimento Universitário - PRDU
+Universidade Estadual de Campinas
+
+
+Instituições externas: preposição e artigo (À ou Ao), pronome de tratamento
+e nome da destinatária ou destinatário (em negrito), cargo da destinatária ou
+destinatário, acompanhado de lotação e sigla, instituição da destinatária ou
+destinatário e endereço (contendo a cidade, unidade de federação e CEP).
+Estrutura para instituição externa:
+Preposição + artigo [À ou Ao]
+Pronome de tratamento + Nome da destinatária ou destinatário [em negrito]
+Cargo da destinatária ou destinatário + lotação - sigla
+Instituição da destinatária ou destinatário
+Endereço [rua, número, bairro etc.], cidade e unidade de federação
+CEP
+
+
+Aplicação para instituição externa:
+À
+Senhora Coordenadora Heliani Berlato
+Coordenadora Adjunta - Coordenadoria de Administração Geral - CODAGE
+Universidade de São Paulo
+Rua da Reitoria, 374 - Cidade Universitária - Butantã - São Paulo/SP
+CEP 05508-220
+
+
+7.5 - Texto de introdução e saudação/fecho
+Para a introdução do assunto, evite expressões desgastadas tais como “Por intermédio da presente...”, “Venho por meio desta...”, “Esta tem por finalidade...”.
+O ideal é começar o texto com o verbo que veicula a mensagem que se quer transmitir,de forma objetiva, como: encaminhamos, informamos, comunicamos, recebemos etc.
+________________
+Página 19.
+As saudações ou fechos têm a finalidade de arrematar o texto e cumprimentar a destinatária e o destinatário.
+Não utilize expressões, como “Sem mais para o momento” e “Com elevada estima e apreço”, pois são redundantes e desnecessárias. São recomendadas algumas expressões:
+• Aguardamos seu parecer.
+• Permanecemos à disposição.
+No fecho, devem ser utilizadas as expressões abaixo, conforme a destinatária ou
+destinatário:
+• “Respeitosamente” para autoridades superiores.
+• “Atenciosamente” para autoridade de mesma hierarquia ou de hierarquia inferior.
+• “Cordialmente” ou “agradecemos” independentemente do nível hierárquico.
+
+
+Em caso de solicitações, recomenda-se a saudação de agradecimento.
+
+
+7.6 Identificação da pessoa que assina
+
+
+Todas as comunicações oficiais devem apresentar assinatura, o nome (em negrito) e o cargo ou função da autoridade que as expede:
+
+
+Estrutura:
+Assinatura
+Nome [em negrito]
+Cargo ou função
+
+
+Aplicação:
+(assinatura)
+Ana Silva Pereira
+Diretora de Serviços Contábeis
+
+
+________________
+
+
+Página 20.
+Observação: em qualquer ato administrativo, deve-se evitar que o nome ou a
+assinatura da pessoa emitente fique em página isolada do documento. Neste caso, o indicado é que se transfira ao menos o último parágrafo do texto para a página seguinte, onde se encontra o nome ou a assinatura.
+No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+
+
+7.7 - Abreviaturas
+
+
+Geralmente, as abreviaturas terminam em consoante, que devem ser seguidas de ponto abreviativo.
+Exemplos: av. (avenida) / end. (endereço) / cód. (código)
+
+
+A inicial maiúscula dos nomes próprios e a acentuação são preservadas nas abreviaturas.
+
+
+Exemplo: V. Exa. (Vossa Excelência)
+
+
+Em caso de plural, acrescenta-se “s” ao final da abreviatura ou dobram-se as letras, se a abreviatura for constituída por letra maiúscula:
+Exemplos: A. (autor) / AA. (autores)
+
+
+A maioria das abreviaturas geralmente termina com ponto-final.
+Depois do ponto da abreviatura, é possível colocar qualquer sinal de pontuação, exceto ponto-final. Assim, no caso de “etc.”, em final de frase, não se deve colocar outro ponto.
+Exemplo: Ele fez as compras do mês. Comprou carne, ovos, farinha, cebolas etc.
+
+
+________________
+
+
+Página 21.
+7.8 - Siglas
+
+
+Para padronizar o uso de siglas e acrônimos nos atos normativos, adotaremos os conceitos recomendados pelo Manual de Elaboração de Textos da Consultoria Legislativa do Senado Federal (1999), que foram atualizados e estão em conformidade com a última versão do Manual de Redação da Presidência da República (2018).
+
+
+Sigla: constitui-se do resultado da soma das iniciais de um título.
+Exemplo: Caixa Econômica Federal – CEF
+
+
+Acrônimo: constitui-se do resultado da soma de algumas sílabas ou partes dos
+vocábulos de um título.
+Exemplo: Agência Nacional de Vigilância Sanitária – Anvisa
+
+
+Observa-se que:
+
+
+• - Não se deve fazer uso indiscriminado de siglas e acrônimos. Seu uso deverá restringir-se às formas já existentes e consagradas. No caso de atos normativos, recomenda-se desprezar as formas popularizadas que não estejam previstas em algum dispositivo legal.
+• - As siglas e os acrônimos devem ser escritos no mesmo corpo do texto, sem o uso de pontos intermediários ou finais.
+• - Na primeira citação, a expressão designada deve vir escrita por extenso, de forma completa e correta, sempre antes de sua sigla ou acrônimo respectivo, separados por travessão.
+Exemplo: Imposto Predial e Territorial Urbano – IPTU
+
+
+A grafia das siglas deverá obedecer às seguintes regras:
+
+
+Siglas compostas por até três letras devem ser escritas em letras maiúsculas.
+Exemplos: Organização das Nações Unidas – ONU
+         Ordem dos Advogados do Brasil – OAB
+________________
+Página 22.
+                    Faculdade de Engenharia Mecânica – FEM
+                    Faculdade de Ciências Aplicadas – FCA
+
+
+Siglas compostas por mais de três letras pronunciadas separadamente devem ser escritas em letras maiúsculas.
+Exemplos: Instituto Brasileiro de Geografia e Estatística – IBGE
+                  Instituto Nacional de Seguridade Social – INSS
+                  Grupo Gestor de Benefícios Sociais – GGBS
+                  Pró-Reitoria de Desenvolvimento Universitário – PRDU
+
+
+Siglas compostas por mais de três letras pronunciadas formando uma palavra
+devem ser escritas apenas com a inicial maiúscula.
+Exemplos: Agência Nacional de Aviação Civil – Anac
+                  Universidade Estadual de Campinas – Unicamp
+                  Escola de Educação Corporativa – Educorp
+
+
+Siglas em que haja leitura mista (parte é pronunciada pela letra e parte como
+palavra) podem ser grafadas com todas as letras maiúsculas.
+Exemplos: Departamento Nacional de Infraestrutura de Transportes – DNIT
+                
+Hospital Regional da Asa Norte – HRAN
+
+
+Excepcionalmente pode haver a concorrência de letras maiúsculas e minúsculas na estrutura de sigla e acrônimo, a fim de evitar confusão com outros termos semelhantes.
+Exemplos: 
+Conselho Nacional de Desenvolvimento Científico e Tecnológico – CNPq
+Divisão de Educação Infantil e Complementar - DEdIC
+
+
+Siglas e acrônimos de órgãos estrangeiros devem ser usados na versão em português, que corresponde à expressão original traduzida. Entretanto, adota-se a forma abreviada original quando seu uso for disseminado internacionalmente.
+Exemplo: Organização dos Países Exportadores de Petróleo – Opep
+________________
+Página 23.
+Para siglas empregadas no plural, pode ser usado “s” (minúsculo) sem apóstrofo.
+Exemplo: TREs (Tribunais Regionais Eleitorais) e não TRE’s
+
+
+Observação: esta regra não se aplica a siglas terminadas com a letra “s”, caso em que o plural é definido pelo artigo.
+Exemplo: DVS (Destaques para Votação em Separado)
+
+
+7.9 - Letras minúsculas e maiúsculas
+
+
+Como regra, a letra minúscula inicial é usada em todos os vocábulos da língua nos usos correntes, ou seja, em sentido comum. Exemplos: pessoas (homem, mulher, criança), animais (cachorro, gato, cavalo), objetos (caneta, computador, mesa, cadeira), cargos e funções (médico, prefeito, doutora, coordenador, chefe, assessor), entre outros.
+
+
+A letra maiúscula inicial deve ser usada em vocábulos de sentido próprio, específicos, como nome de pessoas, países, instituições, festividades, siglas, entre outros.
+
+
+Exemplos: Prefeitura, Superintendência, Coordenadoria, Assessoria, Brasil, Festa da Uva.
+
+
+De acordo com a reforma ortográfica de 2016, tornou-se facultativo usar a
+letra maiúscula nos nomes que designam os domínios do saber (matemática ou Matemática), nos títulos (Cardeal/cardeal, Doutor/doutor, Santa/santa) e nas categorizações de logradouros públicos (Rua/rua da Liberdade), de templos (Igreja/ igreja do Bonfim) e edifícios (Edifício/edifício Cruzeiro).
+
+
+
+
+Referências Bibliográficas
+
+
+ACADEMIA BRASILEIRA DE LETRAS (ABL). Vocabulário ortográfico da língua portuguesa (VOLP). Disponível em: 
+________________
+Página 24.
+https://www.academia.org.br/nossa-lingua/busca-no-vocabulario. Acesso em: 23 abr. 2023.
+
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 5892: Informação e
+documentação: Representação e formatos de tempo - Datas e horas - Apresentação. 2.ed. Rio de Janeiro, 2019. 8 p.
+
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: Informação e documentação: Referências. 2. ed. Rio de Janeiro, 2018. 74 p.
+
+
+BRASIL. Câmara dos Deputados. Resolução número 1, de 2002-CN. Dispõe sobre a apreciação, pelo Congresso Nacional, das Medidas Provisórias a que se refere o art. 62 da Constituição Federal, e dá outras providências. Brasília, DF, 8 maio 2002. Disponível em: https://www2.camara.leg.br/legin/fed/rescon/2002/resolucao-1-8-maio-2002-497942-normaatualizada-pl.html. Acesso em: 19 abr. 2023.
+
+
+BRASIL. Presidência da República. Casa Civil. Subchefia para Assuntos Jurídicos. Manual de redação da Presidência da República. 3. ed. rev., atual. e ampl. Brasília: Presidência da República, 2018. Disponível em: http://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica/manual-de-redacao.pdf. Acesso em: 19 abr. 2023.
+
+
+BRASIL. Tribunal de Contas do Distrito Federal. Manual de redação oficial. 2. ed. Brasília: DIPLAN, 2014. Disponível em: https://biblioteca.tc.df.gov.br/wp-content/uploads/2018/11/ManualRedacao2014.pdf. Acesso em: 19 abr. 2023.
+
+
+CONSELHO DA JUSTIÇA FEDERAL. Programa de gestão documental: manual de procedimentos. Brasília: Conselho da Justiça Federal, 2001. Disponível em: https://simagestao.com.br/wp-content/uploads/2016/01/MANUAL-DE-PROCEDIMENTOS.pdf. Acesso em: 19 abr. 2023.
+________________
+Página 25.
+
+
+DURANTI, Luciana. Textos de apoio ao curso Diplomática aplicada a documentos convencionais e digitais. Rio de janeiro: Arquivo Nacional, 2008.
+
+
+GARCIA, Luiz. Manual de redação e estilo. 29. ed. São Paulo: Globo, 2005.
+
+
+GOLD, Miriam. Redação empresarial. 5. ed. São Paulo: Saraiva, 2017.
+
+
+MEDEIROS, João Bosco de. Redação empresarial. São Paulo: Atlas, 1993.
+
+
+PENTEADO, José Roberto Whitaker. A técnica da comunicação humana. São Paulo: Pioneira, 1991.
+
+
+PORTAL DA LÍNGUA PORTUGUESA. Acordo ortográfico. Disponível em: http://www.portaldalinguaportuguesa.org/acordo.php. Acesso em: 23 abr. 2023. 
+
+
+PRETI, Oreste. A formação do professor na modalidade a distância: (des)construindo metanarrativas e metáforas. Revista Brasileira de Estudos Pedagógicos, Brasília, v. 82, n. 200/201/202, p. 26-39, jan./dez. 2001. Disponível em: http://rbep.inep.gov.br/ojs3/index.php/rbep/article/view/1347. Acesso em: 19 abr. 2023.
+ 
+                                       FIM

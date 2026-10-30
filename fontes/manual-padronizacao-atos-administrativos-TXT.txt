@@ -1,0 +1,1344 @@
+﻿O material anexo foi adaptado pelo laboratório de acessibilidade – LABACES da Unicamp – Universidade Estadual de Campinas. Esse serviço encontra-se ancorado na lei de inclusão brasileira número 13.146 de 06 de julho de 2015, lei dos direitos autorais número 9.610 de 19 de fevereiro de 1998, e o tratado de Marraqueche, promulgado por meio do decreto número 9.522/2018.
+
+
+UNIVERSIDADE ESTADUAL DE CAMPINAS COORDENADORIA GERAL DA UNIVERSIDADE ARQUIVO CENTRAL DO SISTEMA DE ARQUIVOS
+
+
+Página 1.
+Manual de Padronização de Atos Administrativos da Unicamp
+Campinas Agosto 2024
+
+
+Elaboração: Neire do Rossio Martins
+Colaboração: Janaína Andiara dos Santos e Cirlene Domingues
+Revisão: Fábio Rodrigo Pinheiro da Silva (versão 2011)
+Janaína Andiara dos Santos (versão 2017)
+Ana Carolina Braz Moitinho, Angela Noronha Bignami, Ana Paula Montagner, Carlos Renato Paraizo, Décio Henrique Franco, Edimilson Montalti, Fábio Rodrigo Pinheiro da Silva, Girlene Otaviano Costa de Rosso, Grazielle Cássia Alves de Souza, Janaína Adiara Santos, Luiz Carlos Fernandes, Patricia Ferrari Schedenffeldt, Roberta Cristina Dal’Evedove Tartarotti e Thiago Pinheiro Rosa – GT Portaria CGU nº 01/2023 (versão 2024)
+Projeto gráfico: Carlos Renato Paraizo, Laura Tellini e Leonardo Trevisan
+Patrocínio: Escola de Educação Corporativa da Unicamp - Educorp
+Agradecimentos: Equipe Técnica do Arquivo Central do Sistema de Arquivos
+Contatos:
+Telefone: 3521-6456
+Site: http://www.siarq.unicamp.br/siarq
+E-mail: siarq@unicamp.br
+Sistema de Bibliotecas da UNICAMP .
+________________
+Página 2.
+Divisão de Tratamento da Informação
+Bibliotecária: Erica Cristina de Carvalho Mansur – CRB-8ª / 6734
+
+
+REITOR
+Antonio José de Almeida Meirelles
+COORDENADORA GERAL DA UNIVERSIDADE
+Maria Luiza Moretti
+PRÓ-REITOR DE DESENVOLVIMENTO UNIVERSITÁRIO
+Fernando Sarti
+PRÓ-REITOR DE EXTENSÃO, ESPORTE E CULTURA
+Fernando Antonio Santos Coelho
+PRÓ-REITOR DE GRADUAÇÃO
+Ivan Felizardo Contrera Toro
+PRÓ-REITORA DE PÓS-GRADUAÇÃO
+Rachel Meneguello
+PRÓ-REITORA DE PESQUISA
+Ana Maria Frattini Fileti
+CHEFE DE GABINETE
+Paulo César Montagner
+CHEFE DE GABINETE ADJUNTA
+Adriana Nunes Ferreira
+
+
+APRESENTAÇÃO
+
+
+A qualidade da gestão administrativa sempre foi um princípio norteador da Universidade Estadual de Campinas no desempenho de suas funções. Desta forma, no decorrer de sua expansão e inovação, a Universidade vem buscando aprimoramentos em seus procedimentos administrativos, de forma que correspondam à complexidade de seus processos e serviços e apoiem o alcance de sua missão.  No âmbito da gestão de documentos, em 2011, o Arquivo Central do Sistema de Arquivos publicou o Manual de 
+________________
+Página 3.
+Recomendações para a Produção de Atos Administrativos, que introduzia conceitos e propunha modelos referenciais de documentos às Unidades e Órgãos, com o objetivo de dar suporte às atividades administrativas das servidoras e dos servidores em suas rotinas de trabalho e melhorar a qualidade dos atos produzidos. Considerando que a padronização da produção de documentos se mantém como importante subsídio à gestão documental e a de outros processos, à medida que a disponibilidade e a agilidade de informação são imprescindíveis para a eficiência administrativa, a Coordenadoria Geral da Universidade (CGU) constituiu o Grupo de Trabalho junto à Escola de Educação Corporativa (Educorp), com representantes da Faculdade de Tecnologia (FT), Hospital de Clínicas (HC), Secretaria Geral (SG), Coordenadoria Geral da Universidade (CGU), Diretoria Geral de Recursos Humanos (DGRH), Faculdade de Odontologia (FOP), Sistema de Informações ao Cidadão (SIC), Sistema de Bibliotecas (SBU), Faculdade de Engenharia Química (FEQ), Diretoria Acadêmica (DAC), Sistema de Arquivos (SIARQ), Grupo Gestor de Benefícios Sociais (GGBS) e Diretoria Geral da Administração (DGA), para mapear e revisar os modelos de documentos já usados nas diversas Unidades e Órgãos, com o objetivo de propor padrões que uniformizem e simplifiquem a produção dos atos administrativos e de comunicação, de forma alinhada aos aspectos técnicos de Redação Oficial e aos princípios da Linguagem Simples (Lei nº 13.460, de 26 de junho de 2017). Neste contexto, este manual constitui-se como um dos resultados do trabalho do grupo, e contempla a introdução aos conceitos, competências, estruturas e modelos dos atos administrativos
+
+
+SUMÁRIO
+- CAPÍTULO 1 – CONCEITOS, CONDIÇÕES E REQUISITOS DOS ATOS ADMINISTRATIVOS – Página 5
+- CAPÍTULO 2 – ELEMENTOS, ESTRUTURA E MODELOS DE ATOS ADMINISTRATIVOS – Página 8
+- 2.1 - ELEMENTOS DE FORMATAÇÃO GERAL PARA OS ATOS ADMINISTRATIVOS (FORMA) – Página 8
+- PAPEL – Página 8
+________________
+Página 4.
+- FONTE – Página 8
+- ESTILOS DE LETRA – Página 8 
+- MARGENS – Página 8
+- FORMATAÇÃO DOS PARÁGRAFOS – Página 9
+- NUMERAÇÃO DE PÁGINAS – Página 9
+- 2.2 - ELEMENTOS DA COMPOSIÇÃO E REDAÇÃO GERAL DOS ATOS ADMINISTRATIVOS (CONTEÚDO) – Página 9
+- COMO IDENTIFICAR O ATO ADMINISTRATIVO? – Página 9
+- COMO REFERENCIAR DOCUMENTOS RELACIONADOS À ATIVIDADE NO ATO ADMINISTRATIVO? – Página 10
+- COMO SE REFERIR À DESTINATÁRIA OU AO DESTINATÁRIO? – Página 10
+- COMO REGISTRAR O LOCAL E A DATA DE PRODUÇÃO DO ATO ADMINISTRATIVO? – Página 10
+- COMO ELABORAR A SAUDAÇÃO À DESTINATÁRIA OU AO DESTINATÁRIO DO ATO ADMINISTRATIVO? – Página 10
+- COMO EXPLICITAR A AUTORIA DO ATO ADMINISTRATIVO? – Página 10
+- ENDEREÇAMENTO – Página 10
+- 2.3 -ESPÉCIES, CONCEITOS E MODELOS DE ATOS ADMINISTRATIVOS – Página 11
+- ATA – Página  11
+- CARTA – Página 13
+- CERTIFICADO – Página 15
+- COMUNICADO – Página 17
+- DECISÃO – Página 18
+- DECLARAÇÃO – Página 20
+- DELIBERAÇÃO – Página 22
+- DESPACHO – Página 24
+- INFORMAÇÃO – Página 26
+- MEMORANDO – Página 28
+- OFÍCIO – Página 30
+________________
+Página 5.
+- OFÍCIO CIRCULAR – Página 33
+- PARECER – Página 36
+- PAUTA – Página 38
+- RELATÓRIO – Página 39.
+- ATOS NORMATIVOS – Página 41
+- INSTRUÇÃO NORMATIVA – Página 42
+- PORTARIA – Página 44
+- REGIMENTO – Página 46
+- REGULAMENTO – Página 48
+- RESOLUÇÃO – Página 50
+- CAPÍTULO 3 – MENSAGENS DE CORREIO ELETRÔNICO – Página 52
+- REFERÊNCIAS BIBLIOGRÁFICAS– Página 58
+
+
+
+
+CAPÍTULO 1 – CONCEITOS, CONDIÇÕES E REQUISITOS DOS ATOS ADMINISTRATIVOS
+
+
+Os atos administrativos são praticados pelos Órgãos da Administração Pública no exercício de suas funções administrativas, ao realizarem serviços em atendimento às demandas públicas e coletivas.
+Conceitualmente, é “toda manifestação unilateral de vontade da administração pública que, agindo nesta qualidade, tenha por fim imediato adquirir, resguardar, transferir, modificar, extinguir e declarar direitos ou impor obrigações aos administrados ou a si própria”. (Meireles, 2013).
+Estes atos devem ser praticados por agentes públicos, amparados por previsão legal, obedecendo aos princípios de “legalidade, impessoalidade, moralidade, publicidade e eficiência”, previstos no Art. 37 da Constituição Federal de 1988. 
+Para que produzam efeitos válidos, devem ainda seguir os seguintes requisitos:
+________________
+Página 6.
+• 1 - Competência: é a previsão legal de que o agente público pode emanar o ato em questão. Qualquer ato emanado por agente que não possui competência administrativa para tal ou que vá além de suas atribuições, é inválido.
+• 2 - Finalidade: é o resultado que se almeja alcançar com o ato administrativo emanado, que deve buscar sempre o interesse público e ser previsto em lei, de forma implícita ou explícita. Exemplo: a sanção de advertência prevista na Lei de 
+Licitações e de Contratos Administrativos (n° 14.133/2021) é ato punitivo para determinadas infrações administrativas e não deve ser praticado para situações ou infrações distintas daquelas previstas na referida lei.
+• 3 - Forma: é a configuração pela qual o ato administrativo deve se manifestar na 
+Administração Pública. Diferentemente do privado, onde há liberdade na forma, os atos praticados nos órgãos públicos são sempre formais, escritos e devem seguir regras de representação.
+• 4 - Motivo: é a situação que gera a necessidade do ato e fundamenta a sua prática. 
+Exemplo: o descumprimento de uma regra contratual é o motivo de respectivo ato de advertência. É diferente de “motivação”, que é a justificativa por escrito das razões que levaram à prática do ato.
+• 5 - Objeto: é o resultado prático do ato, ou seja, o efeito imediato ou fato que o ato produz.
+Os atos administrativos são manifestados em documentos arquivísticos, [nota 1]. Dotados de validade jurídica e que, por sua formalidade, devem conter elementos internos e externos. No âmbito da diplomática e tipologia documental, as espécies são a maneira pela qual os atos se exteriorizam, ou seja, as configurações que assumem de acordo com a disposição e a natureza de suas informações.
+Neste contexto, o próximo capítulo traz informações e modelos de espécies dos atos administrativos mais comumente utilizados no âmbito da Universidade, para que sirvam de referência nas práticas administrativas das Unidades e Órgãos, qualificando a produção dos seus documentos.
+________________
+Página 7.
+Artigo 5º - Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+10 - São invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação.
+
+
+33 - Todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado; 
+Constituição Federal 1988
+
+
+Artigo 37 - A administração pública direta e indireta de qualquer dos 
+Poderes da União, dos Estados, do Distrito Federal e dos 
+Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:
+Parágrafo 3º A lei disciplinará as formas de participação do usuário na administração pública direta e indireta, regulando especialmente: 
+2 - O acesso dos usuários a registros administrativos e a informações sobre atos de governo, observado o disposto no artigo 5º, 10 e 33.
+
+
+Nota 1. Documento produzido (elaborado ou recebido), no curso de uma atividade prática, como instrumento ou resultado de tal atividade, e retido para ação ou referência
+
+
+
+
+________________
+
+
+Página 8.
+CAPÍTULO 2 – ELEMENTOS, ESTRUTURA E MODELOS DE ATOS ADMINISTRATIVOS
+
+
+2.1 - Elementos de formatação geral para os Atos Administrativos (Forma)
+Papel
+Ainda que os documentos sejam cada vez mais produzidos em formato digital, seus formatos e dimensões seguem os parâmetros das folhas em papel. Neste caso, recomendamos o padrão A4 (21cm x 29,7cm). Além disso:
+• 1 - priorize a produção de documentos nato-digitais, com atenção aos requisitos de autenticidade e integridade, por meio da utilização de sistema informatizado de gestão arquivística de documentos (SIGAD);
+• 2 - evite a impressão de cópias de documentos nato-digitais;
+• 3 - em caso de necessidade, a impressão dos textos deve ser feita na cor preta em papel em branco. A impressão colorida deve ser usada apenas para gráficos e ilustrações.
+Fonte
+Arial ou Calibri, tamanho 12.
+Em determinadas situações como citações, notas, observações, podem ser utilizados tamanhos menores, como 11 nas citações, notas e observações, e 10 nas notas de rodapé. 
+Estilos de letra
+Os estilos sombreado, sublinhado e relevo não devem ser utilizados. Os estilos caixa alta, negrito, itálico ou qualquer outro tipo de formatação que afete a sobriedade do documento devem ser utilizados sem abuso, nas seguintes situações:
+• 1 - Caixa alta: título dos documentos;
+• 2 - Negrito: título e destaque de trechos e palavras;
+• 3 - Itálico: palavras estrangeiras, nomes em latim, gêneros e espécies biológicas.
+Margens
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm
+________________
+Página 9.
+Formatação dos parágrafos
+• 1 - Alinhamento do texto: Justificado.
+• 2 - Entre parágrafos: 
+- Automático antes e depois, até saudação formal; 
+- 0 ponto após a saudação à destinatária ou ao destinatário ou última frase do documento (quando não houver saudação à destinatária ou ao destinatário) até o final do documento.
+• 3 - Entre linhas: 
+- 1 linha em branco após o cabeçalho; 
+- 1,5 linhas do início até a saudação final; 
+- Simples após saudação à destinatária ou ao destinatário ou última frase do documento (quando não houver saudação à destinatária ou ao destinatário) até o final do documento, incluindo identificação do autor e endereçamento; 
+- 4 linhas em branco, com espaçamento simples, antes do nome do autor do documento.
+• 4 - Citações ou transcrições: Esquerdo 2 cm e direito 2 cm.
+• 5 - Avanço de parágrafos: 1,25 cm do início do texto.
+Numeração de páginas
+O número da página do documento deve ser exibido a partir da segunda página, à direita da página, no rodapé do documento.
+2.2 - Elementos da composição e redação geral dos Atos Administrativos (Conteúdo)
+Como identificar o ato administrativo?
+• 1 - A denominação do ato deve ser escrita por extenso, preferencialmente não abreviada, em letras maiúsculas;
+• 2 - O registro, que é atribuição de numeração sequencial por período, pode ser utilizado para fins de controle dos atos administrativos produzidos pelas unidades e órgãos e respectivas áreas, facilitando a sua futura utilização;
+• 3 - O nome é composto pela espécie mais atividade (se houver), Unidade e Órgão além das respectivas áreas, numeração sequencial e ano. Exemplo Resolução GR nº 28/2015.
+________________
+Página 10.
+Como referenciar documentos relacionados à atividade no ato administrativo?
+• 1 - No ato administrativo, a referência a documentos relacionados ao contexto de produção do ato administrativo pode ser feita no campo “Assunto” ou no campo “Referência”, conforme especificado nas seções e modelos referentes a cada espécie;
+• 2 - No SIGAD-Unicamp o registro da referência deve ser feito no campo “Documentos relacionados”. Como se referir à destinatária ou ao destinatário?
+• 3 - O vocativo é constituído pelo pronome de tratamento acompanhado pelo cargo ocupado pela interlocutora, interlocutor, destinatária ou destinatário (ex.: Senhora Coordenadora, Excelentíssimo Reitor);
+• 4 - Não se utiliza o pronome possessivo (Meu, Seu…). Como registrar o local e a data de produção do ato administrativo?
+• 5 - O local e a data devem ser escritos por extenso e finalizados por ponto final, conforme especificado nas seções e modelos referentes a cada espécie.
+Como elaborar a saudação à destinatária ou ao destinatário do ato administrativo?
+• 1 - As saudações devem ser concisas, cordiais e objetivas;
+• 2 - Em caso de solicitações (recursos, autorizações etc.), recomenda-se expressão de agradecimento;
+• 3 - O fecho deve conter as expressões “Respeitosamente” para autoridades superiores; “Atenciosamente” para autoridade de mesma hierarquia ou de hierarquia inferior; ou “Cordialmente”, independentemente do nível hierárquico. O texto deve ser finalizado com vírgula.
+Como explicitar a autoria do ato administrativo?
+• 1 - A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator;
+• 2 - A signatária ou o signatário deve ser identificado pelo nome e pelo cargo, conforme especificado nas seções e modelos referentes a cada espécie.
+Endereçamento 
+• 1 - Consta nas espécies: Carta, Ofício, Ofício Circular e Memorando;
+• 2 - Alinhado à esquerda, deve obedecer à seguinte ordem de apresentação: 
+________________
+
+
+Página 11.
+Pronome de tratamento
+Nome da destinatária ou do destinatário [em negrito]
+Cargo da destinatária ou do destinatário mais lotação - sigla
+Instituição da destinatária ou do destinatário
+2.3 - Espécies, conceitos e modelos de Atos Administrativos
+
+
+ATA
+ 
+Conceito
+É o documento que registra, de forma completa ou resumida, clara e metódica, as ocorrências, discussões, deliberações e resoluções, realizadas em assembleia, sessão ou reunião.
+Competência
+Unidades e Órgãos.
+Elementos constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - O logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - O logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - Nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+________________
+
+
+Página 12.
+Identificação do documento
+Denominação do ato ATA, alinhada à esquerda na página, seguida da sigla do Órgão Colegiado, Comissão ou Grupo de Trabalho, da numeração sequencial por ano e do ano correspondente. Exemplo: ATA GT Linguagem Simples nº 3/2023.
+Texto
+O texto deverá narrar as ocorrências da reunião, incluindo data cronológica, local de realização, nome das pessoas presentes, assuntos discutidos em obediência ou não a uma ordem do dia ou pauta e as decisões e encaminhamentos acordados entre os membros.
+Ainda, deverá fazer menção à (ao) responsável por lavrar a Ata, bem como a forma de aprovação: por assinatura dos membros dos órgãos colegiados, comissões ou grupos de trabalho ou de sua respectiva presidenta ou presidente; ou por aprovação dos membros na próxima reunião.
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da pessoa responsável por lavrar a ata. Na Unicamp, normalmente a secretária ou o secretário é a redatora ou o redator e a presidenta ou o presidente do Órgão Colegiado, 
+Comissão ou Grupo de Trabalho é a pessoa signatária. A identificação da signatária ou do signatário deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Nota de aprovação
+Recomenda-se inserir nota de aprovação contendo a denominação da sessão, assembleia ou reunião, data e possíveis alterações.
+________________
+Página 13.
+Margens da ata
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+A redação é feita por extenso e sem parágrafo.
+
+
+CARTA
+
+
+Conceito
+Documento que registra comunicação de teor variado entre particulares ou de particular para uma autoridade pública. E/ou documento de correspondência de autoridades da administração pública em comunicações sociais decorrentes de cargo e função públicos. 
+A administração normalmente utiliza para manter correspondências com entidades de caráter particular, em convocações em processos de seleção públicos, convites a eventos, registros de agradecimentos etc.
+Competência
+Unidades e Órgãos.
+Elementos constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+________________
+Página 14.
+Local e data
+O local e a data devem estar localizados na parte superior do documento, alinhados à direita, escritos por extenso e finalizados por ponto final (.).
+Endereçamento
+Alinhado à esquerda, deve obedecer à seguinte ordem de apresentação:
+Preposição + artigo (À ou Ao)
+Pronome de tratamento mais Nome da destinatária ou do destinatário [em negrito]
+Cargo da destinatária ou do destinatário mais lotação - sigla
+Instituição da destinatária ou do destinatário
+Endereço completo
+Vocativo
+Constituído pelo pronome de tratamento conforme descrito na Redação Oficial, acompanhado do cargo ocupado pela interlocutora, interlocutor, destinatária ou destinatário. É alinhado à esquerda da página, seguido por vírgula. Não se utiliza o pronome possessivo. Exemplo: Senhora Coordenadora.
+Texto
+O texto constitui o conteúdo do documento. É a exposição do motivo que originou a carta, em linguagem clara, simples, objetiva, formal e correta.
+Saudação à destinatária ou ao destinatário
+As saudações devem ser concisas, cordiais e objetivas. O texto deve ser alinhado ao parágrafo e finalizado com vírgula.
+Exemplos: Atenciosamente, Respeitosamente, etc. 
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+________________
+Página 15.
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Margens da carta
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+CERTIFICADO
+
+
+Conceito
+“Declaração que garante a veracidade de um fato, de um estado de coisas, o bom estado ou o funcionamento de um objeto/ equipamento. Assemelha-se ao atestado que, entretanto, é mais elaborado em relação às pessoas” (Bellotto, 2002, página 57).
+Competência
+Unidades e Órgãos.
+Elementos constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo Unicamp;
+•  3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+________________
+Página 16.
+Identificação do documento
+Denominação do ato CERTIFICADO centralizada na página.
+Texto
+Exposição do que está sendo afirmado, com nome da interessada ou interessado e dados que o identificam. Nos certificados de participação em evento ou curso, devem estar expressos o nome do evento, período de realização e carga horária. 
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final.
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Margens do certificado
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+________________
+
+
+Página 17.
+COMUNICADO
+
+
+Conceito
+“Cientificação de uma notícia ou ordem dirigida pessoalmente a alguém ou afixada para o conhecimento do público em geral. Assemelha-se à notificação e ao edital” (Bellotto, 
+2002, página 58).
+Competência
+Unidades e Órgãos.
+Elementos constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato COMUNICADO centralizada na página.
+Dependendo da frequência com que a Unidade ou Órgão emita comunicados, pode-se considerar a necessidade de controlá-los por meio do registro (atribuição de numeração sequencial por período). Neste caso, a identificação se dará pela espécie mais atividade (se houver) mais sigla da Unidade ou Órgão + numeração sequencial e ano correspondente, com alinhamento à esquerda. Exemplo: COMUNICADO A C”barra”S I A R Q nº 1/2023.
+________________
+Página 18.
+Ementa
+Exposição resumida do assunto a que se refere o documento.
+Texto
+Notícia ou fato a ser comunicado.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final (.).
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Margens do comunicado
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+DECISÃO
+
+
+Conceito
+Registro numerado da decisão de um órgão colegiado, de forma a solucionar questões submetidas à sua apreciação.
+Competência
+Órgãos colegiados formalmente instituídos Unicamp
+________________
+Página 19.
+Elementos constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo 
+Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato DECISÃO alinhada à esquerda na página, seguida da sigla da 
+Unidade ou Órgão, da numeração sequencial por ano e do ano correspondente.
+Exemplo: DECISÃO AC/SIARQ nº 3/2023.
+Referência
+Título ou número do documento que originou o ato, com alinhamento à esquerda.
+Interessada ou interessado
+A quem interessa o ato (pessoa, Unidade ou Órgão, Comissão etc.), com alinhamento à esquerda.
+Assunto
+Síntese do teor da decisão, com alinhamento à esquerda.
+Texto
+O enunciado da decisão.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final (.).
+________________
+
+
+Página 20.
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Margens da decisão
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+DECLARAÇÃO
+
+
+Conceito
+“Manifestação de opinião, conceito, resolução ou observação, passada por pessoa física ou por um colegiado” (Bellotto, 2002, página 62).
+Competência
+Unidades e Órgãos.
+Elementos constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo Unicamp;
+________________
+Página 21.
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato DECLARAÇÃO centralizada na página.
+Dependendo da frequência com que a Unidade ou Órgão emita declarações, pode-se considerar a necessidade de controlá-las por meio do registro (atribuição de numeração sequencial por período). Neste caso, a identificação se dará pela espécie mais atividade (se houver) mais sigla da Unidade ou Órgão + numeração sequencial e ano correspondente, com alinhamento à esquerda. Exemplo: DECLARAÇÃO AC/SIARQ nº 1/2023.
+Texto
+O assunto que se declara.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final.
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+________________
+Página 22.
+Margens da declaração
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+DELIBERAÇÃO
+
+
+Conceito
+Ato administrativo normativo e decisório expedido por órgãos colegiados, sempre em obediência aos Estatutos da Universidade e ao seu respectivo Regimento Interno, que regula seu funcionamento.
+A deliberação articulada é privativa ao Conselho Universitário, à Câmara de 
+Administração e à Câmara de Ensino, Pesquisa e Extensão.
+Competência
+Órgãos colegiados formalmente instituídos Unicamp
+As Deliberações Articuladas são privativas do Conselho Universitário e suas Câmaras
+(Resolução GR-051/2023 artigo 2º, 1 e Parágrafo único).
+Elementos constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+________________
+Página 23.
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato DELIBERAÇÃO alinhada à esquerda na página, seguida da sigla da Unidade ou Órgão, da numeração sequencial por ano e do ano correspondente.
+Exemplo: DELIBERAÇÃO CONSU nº 45/2023.
+Referência
+Título ou número do documento que originou o ato.
+Interessada ou interessado
+A quem interessa o ato (pessoa, Unidade ou Órgão, Comissão etc.).
+Assunto
+Síntese do teor do documento, com alinhamento à esquerda.
+Texto
+Texto da deliberação.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final (.).
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) dos sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+________________
+
+
+Página 24.
+Margens da deliberação
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+DESPACHO
+
+
+Conceito
+“Registro de decisão proferida por autoridade, em autos ou papéis administrativos, sobre assunto de sua competência, em caso de matéria submetida à sua apreciação. 
+Traduzem resoluções, quando decisórios, e representam opiniões, quando interlocutórios” (Bellotto, 2002, página 65).
+Na Unicamp, é ato comumente expedido pela Procuradoria Geral.
+Não confundir com anotações de ciência, anuência (“de acordo”) e de encaminhamentos de processos (“encaminhe-se…”), comumente chamados de despachos na Universidade, para os quais recomenda-se o uso da espécie Informação. 
+Competência
+Unidades e Órgãos.
+Elementos constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+________________
+Página 25.
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato DESPACHO alinhada à esquerda na página, seguida da sigla da Unidade ou Órgão, da numeração sequencial por ano e do ano correspondente.
+Exemplo: DESPACHO PG nº 15/2023.
+Referência
+Título ou número do documento que originou o ato, com alinhamento à esquerda.
+Interessada ou interessado
+A quem interessa o documento (pessoa, Unidade ou Órgão, Comissão etc.), com alinhamento à esquerda.
+Assunto
+Síntese do teor do documento, com alinhamento à esquerda.
+Texto
+Informações da decisão, encaminhamento ou parecer.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final (.).
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+________________
+
+
+Página 26.
+Margens do despacho
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+INFORMAÇÃO
+
+
+Conceito
+Esclarecimento prestado por determinada servidora ou determinado servidor, no exercício de sua função, a respeito de situações reais ou dispositivos legais. 
+Na Unicamp este documento é utilizado de duas formas:
+• 1 - como meio de rápida comunicação; e 
+• 2 - para encaminhamentos em processos.
+Competência
+Unidades e Órgãos. 
+Elementos Constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo 
+Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+________________
+
+
+Página 27.
+Identificação do documento
+Denominação do ato INFORMAÇÃO alinhada à esquerda na página, seguida da sigla da Unidade ou Órgão, da numeração sequencial por ano e do ano correspondente.
+Exemplo: INFORMAÇÃO AC/SIARQ nº 2/2023.
+Observação: para informações referentes a encaminhamentos em processos, a atribuição do número sequencial é opcional.
+Endereçamento
+Alinhado à esquerda, deve obedecer à seguinte ordem de apresentação:
+Preposição + artigo (À ou Ao)
+Pronome de tratamento mais Nome da destinatária ou do destinatário [em negrito]
+Cargo da destinatária ou do destinatário.
+Texto
+Narrativa breve das circunstâncias que deram origem à ação ou ao documento e determinação clara e precisa da comunicação/solicitação. No caso de remessa de documentos, deve-se especificar o número e a data do expediente que o solicitou ou o motivo do envio.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados à direita, escritos por extenso e finalizados por ponto final.
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+________________
+Página 28.
+Margens da informação
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+MEMORANDO
+
+
+Conceito
+“Forma de correspondência interna, objetiva e simples, para assuntos rotineiros, entre chefias de unidades de um mesmo órgão. O memorando não trata de assuntos de ordem pessoal e tampouco cria, altera ou suprime direitos e obrigações” (Bellotto, 
+2002, página74).
+A principal característica do memorando é a agilidade. O teor do documento deve ser claro, breve e objetivo e sua tramitação deve ser pautada pela simplicidade e rapidez de procedimentos burocráticos.
+Na Unicamp, deve ser utilizado para comunicação interna às unidades e órgãos e centros e núcleos, entre responsáveis por áreas.
+Competência
+Unidades e Órgãos.
+Elementos Constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo 
+Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+________________
+Página 29.
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Local e data
+O local e a data devem estar localizados na parte superior do documento, alinhados à direita, escritos por extenso e finalizados por ponto final.
+Identificação do documento
+Denominação do ato MEMORANDO alinhada à esquerda na página, seguida da sigla da Unidade ou Órgão, da numeração sequencial por ano e do ano correspondente.
+Exemplo: MEMORANDO ACSIARQ nº 2/2023.
+Endereçamento
+Alinhado à esquerda, deve obedecer à seguinte ordem de apresentação: 
+Preposição mais artigo (À ou Ao)
+Pronome de tratamento mais Nome da destinatária ou do destinatário [em negrito]
+Cargo da destinatária ou do destinatário mais lotação - sigla
+Assunto
+Síntese do teor do documento, com alinhamento à esquerda.
+Texto
+Exposição: Narrativa das circunstâncias concretas e imediatas que deram origem à ação ou ao documento.
+Dispositivo: Substância do ato, seu “assunto” propriamente dito, em que se determina o que se quer.
+Saudação à destinatária ou ao destinatário
+As saudações devem ser concisas, cordiais e objetivas. O texto deve ser alinhado ao parágrafo e finalizado com vírgula.
+Exemplos: Atenciosamente, Respeitosamente etc. 
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+________________
+Página 30.
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Anexos
+Descrição de documentos anexados ao Memorando por afinidade de conteúdo.
+A indicação de anexos também pode ser incorporada no texto do Memorando, entre parênteses, imediatamente após a menção ou relacionamento do documento anexado. 
+Exemplo: “De acordo com a tabela referencial de preços (anexo 1) ...”
+Margens do memorando
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+OFÍCIO
+
+
+Conceito
+“Meio de comunicação do serviço público. Forma padronizada de comunicação escrita entre subordinados e autoridades, entre órgãos públicos e entre estes e os particulares, em caráter oficial. Entidades privadas não expedem ofícios e sim cartas. É pelo ofício que se mantém o intercâmbio de informações a respeito de assunto técnico ou administrativo, cujo teor tenha caráter exclusivamente institucional” (Bellotto, 2002, página 76-77).
+Na Unicamp, deve ser utilizado para comunicação entre dirigentes de Unidades e 
+Órgãos. 
+Competência
+Unidades e Órgãos.
+Elementos Constitutivos
+________________
+Página 31.
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Local e data
+O local e a data devem estar localizados na parte superior do documento, alinhados à direita, escritos por extenso e finalizados por ponto final (.).
+Identificação do documento
+Denominação do ato OFÍCIO alinhada à esquerda na página, seguida da sigla da unidade/órgão, da numeração sequencial por ano e do ano correspondente. 
+Exemplo: OFÍCIO AC/SIARQ nº 3/2023.
+Assunto
+Síntese do teor do documento, com alinhamento à esquerda.
+Vocativo
+Constituído pelo pronome de tratamento conforme descrito, acompanhado pelo cargo ocupado pela interlocutora ou interlocutor/destinatária ou destinatário. É alinhado à esquerda da página, seguido por vírgula. Não se utiliza o pronome possessivo. 
+Exemplo: Senhora Coordenadora.
+Texto
+Parte central do documento, onde se encontra a manifestação da vontade do autor, a evidência da ação ou a sua memória.
+________________
+Página 32.
+• 1 - Exposição/Introdução: Narrativa das circunstâncias concretas e imediatas que deram origem à ação ou ao documento; apresentação do assunto que motiva a comunicação.
+• 2 - Dispositivo/Desenvolvimento: Substância do ato, desenvolvimento do “assunto”. 
+Aqui, deve-se ainda determinar a solicitação/comunicação de forma clara e precisa. Se o texto tiver mais de uma ideia elas devem ser tratadas em parágrafos distintos. No caso de remessa de documentos deve-se especificar o número e a data do expediente que o solicitou ou o motivo do envio.
+Saudação à destinatária ou ao destinatário
+As saudações devem ser concisas, cordiais e objetivas. O texto deve ser alinhado ao parágrafo e finalizado com vírgula.
+Exemplos: Atenciosamente, Respeitosamente.
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Anexos
+Descrição de documentos anexados ao Ofício por afinidade de conteúdo.
+A indicação de anexos também pode ser incorporada no texto do Ofício, entre parênteses, imediatamente após a menção ou relacionamento do documento anexado. 
+Exemplo: “De acordo com a tabela referencial de preços (anexo 1) ...”
+________________
+
+
+Página 33.
+Endereçamento
+Alinhado à esquerda, ao final do texto, deve obedecer à seguinte ordem de apresentação: 
+Pronome de tratamento
+Nome da destinatária ou do destinatário [em negrito]
+Cargo da destinatária ou do destinatário mais lotação - sigla
+Instituição da destinatária ou do destinatário
+Endereço (quando a comunicação for dirigida para órgãos externos).
+Margens do ofício
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+OFÍCIO CIRCULAR
+
+
+Conceito
+Ordem escrita, de caráter uniforme e de comunicação e correspondência, expedidas a determinados servidores incumbidos de certo serviço ou do desempenho de certas atribuições em circunstâncias especiais.
+Competência
+Reitora, Reitor, Coordenadora Geral, Coordenador Geral, Pró-Reitoras, Pró-Reitores,
+Vice-Reitoras Executivas, Vice-Reitores Executivos, Diretoras e Diretores de Institutos e Faculdades e Dirigentes de Órgãos (Resolução GR-051/2023 artigo 3º, 1 e 2).
+Elementos Constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+________________
+
+
+Página 34.
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo 
+Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade/Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade/Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Local e data
+O local e a data devem estar localizados na parte superior do documento, alinhados à direita, escritos por extenso e finalizados por ponto final (.).
+Identificação do documento
+Denominação do ato OFÍCIO CIRCULAR alinhada à esquerda na página, seguida da sigla da Unidade/Órgão, da numeração sequencial por ano e do ano correspondente.
+Exemplo: OFÍCIO CIRCULAR AC/SIARQ nº 4/2023.
+Assunto
+Síntese do teor do documento, com alinhamento à esquerda.
+Vocativo
+Constituído pelo pronome de tratamento conforme descrito na Redação Oficial, acompanhado pelo cargo ocupado pela interlocutora ou interlocutor/destinatária ou destinatário. É alinhado à esquerda da página, seguido por vírgula. Não se utiliza o pronome possessivo.
+Pode-se utilizar o vocativo no singular, quando cada Ofício Circular for endereçado individualmente; ou no plural, quando as destinatárias ou os destinatários forem indicados de forma genérica.
+Exemplo: Senhora Coordenadora, Senhores Diretores etc. 
+Texto
+Parte central do documento, onde se encontra a manifestação da vontade da autora ou autor, a evidência da ação ou a sua memória.
+________________
+Página 35.
+• 1 - Exposição/Introdução: Narrativa das circunstâncias concretas e imediatas que deram origem à ação ou ao documento; apresentação do assunto que motiva a comunicação.
+• 2 - Dispositivo/Desenvolvimento: Substância do ato, desenvolvimento do “assunto”. 
+Aqui, deve-se ainda determinar a solicitação/comunicação de forma clara e precisa. Se o texto tiver mais de uma ideia, elas devem ser tratadas em parágrafos distintos. No caso de remessa de documentos deve-se especificar o número e a data do expediente que o solicitou ou o motivo do envio.
+Saudação à destinatária ou ao destinatário
+As saudações devem ser concisas, cordiais e objetivas. O texto deve ser alinhado ao parágrafo e finalizado com vírgula.
+Exemplos: Atenciosamente, Respeitosamente etc. 
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Anexos
+Descrição de documentos anexados ao Ofício Circular por afinidade de conteúdo.
+A indicação de anexos também pode ser incorporada no texto do Ofício, entre parênteses, imediatamente após a menção ou relacionamento do documento anexado. 
+Exemplo: “De acordo com a tabela referencial de preços (anexo 1)...”
+________________
+
+
+Página 36.
+Endereçamento
+Alinhado à esquerda, ao final do texto, deve obedecer à seguinte ordem de apresentação: 
+Pronome de tratamento
+Nome da destinatária ou do destinatário [em negrito]
+Cargo da destinatária ou do destinatário mais lotação - sigla
+Instituição da destinatária ou do destinatário
+Endereço (quando a comunicação for dirigida para órgãos externos)
+Pode-se produzir um Ofício Circular com a mesma numeração para cada destinatária ou destinatário; ou apenas um Ofício com as destinatárias ou os destinatários descritos de forma genérica. Exemplo: Senhores Diretores de Unidades e Órgãos.
+Margens do ofício circular
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+PARECER
+
+
+Conceito
+“Opinião técnica ou científica sobre um ato, servindo de base para a tomada de decisão. 
+O mesmo que consulta” (Bellotto, 2002, página 78).
+Competência
+Unidades e Órgãos.
+Elementos Constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+________________
+
+
+Página 37.
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo 
+Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato PARECER alinhada à esquerda na página, seguida da sigla da 
+Unidade ou Órgão, da numeração sequencial por ano e do ano correspondente.
+Exemplo: PARECER AC/SIARQ nº 4/2023.
+Referência
+Título ou número do documento que originou o ato.
+Interessada ou interessado
+A quem interessa o documento (pessoa, Unidade ou Órgão, Comissão etc.).
+Assunto
+Síntese do teor do documento, com alinhamento à esquerda.
+Texto
+Exposição: Desenvolvimento do texto, citando a fundamentação legal, quando existente.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final (.).
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+________________
+Página 38.
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Margens do parecer
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+PAUTA
+
+
+Conceito
+Relação de itens a serem abordados em uma reunião. Na Unicamp, comumente estes itens dividem-se em 2 seções: 
+• 1 - Expediente: assuntos para ciência do Órgão colegiado, Comissão ou Grupo de Trabalho;
+• 2 - Ordem do dia: assuntos que demandam decisões do Órgão Colegiado, Comissão ou Grupo de Trabalho.
+Competência
+Unidades e Órgãos.
+Elementos Constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+________________
+Página 39.
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato Pauta de Reunião, centralizado na página, seguida da sigla da 
+Comissão, Órgão Colegiado ou Grupo de Trabalho, da numeração sequencial por ano e do ano correspondente. 
+Exemplo: Pauta de Reunião do GT Linguagem Simples nº X/YYYY.
+Texto
+Listagem dos itens em tópicos, divididos entre Informes e Ordem do dia.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, centralizados, escritos por extenso e finalizados por ponto final.
+Margens da pauta
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+RELATÓRIO
+
+
+Conceito
+“Exposição de ocorrências, fatos, despesas, transações, situações ou de atividades realizadas por autoridade com a finalidade de prestar conta de seus atos à autoridade superior” (Bellotto, 2002, página 85).
+Competência
+Unidades e Órgãos.
+Elementos Constitutivos
+________________
+
+
+Página 40.
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo 
+Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato RELATÓRIO, seguido do complemento. 
+Exemplo: Relatório de Atividades.
+Referência
+Documento ou processo que originou o ato.
+Texto
+1. Apresentação (histórico, introdução);
+2. Desenvolvimento (metodologia e critérios de análise);
+3. Conclusão (resultados e considerações finais);
+4. Referências bibliográficas.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final (.).
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+________________
+Página 41.
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Margens do relatório
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+ATOS NORMATIVOS
+
+
+Os atos normativos, expedidos por autoridades administrativas competentes, estabelecem normas ou regras, com vista à correta aplicação da lei. A elaboração de tais atos baseia-se em critérios adotados na técnica legislativa, em que a exposição do assunto distribui-se nos seguintes tópicos:
+1 - Ementa: é uma síntese do assunto que está sendo tratado, expressando de forma inequívoca, a finalidade precípua do ato normativo. Deve ser iniciada por verbo na 3ª pessoa do singular do presente do indicativo;
+2 - Fundamentação Legal: são os dispositivos legais que amparam o signatário na expedição de determinados atos.
+3 - Cláusula de vigência: a vigência do ato normativo deve ser indicada de forma expressa, sendo regra geral a entrada da norma em vigor na data da publicação. 
+4 -Cláusula de revogação: a cláusula de revogação quando necessária, ocorre no último artigo do texto, devendo sempre, que possível, conter expressamente todas as disposições revogadas a partir da vigência do novo ato.
+5 - Artigo: é a articulação a qual estão vinculados os parágrafos, incisos e alíneas e itens.
+6 - Parágrafo: constitui o desdobramento imediato do artigo.
+________________
+Página 42.
+7 - Inciso: os incisos são utilizados como elementos discriminativos de artigo se o assunto neles tratado não poder ser condensado no próprio artigo ou não se mostrar adequado a constituir parágrafo. 
+8 - Alínea: ou letras constituem desdobramentos dos incisos e dos parágrafos. A alínea ou letra será grafada em minúscula e seguida de parêntese: a); b), etc. 
+9 - Item: é a subdivisão da alínea, quando esta, para maior clareza, exigir desdobramento. O texto do item inicia-se com letra minúscula, salvo quando se tratar de nome próprio, e com ponto-e-vírgula ou ponto, caso seja o último e anteceda artigo ou parágrafo.
+Obs.: utiliza-se um espaço simples entre capítulos, seções, artigos, parágrafos, incisos, alíneas e itens. 
+Na Unicamp, os Atos Normativos mais utilizados são: Deliberação, Instrução, Portaria e Resolução.
+
+
+INSTRUÇÃO NORMATIVA 
+
+
+Conceito
+Ordem escrita e geral a respeito do modo e forma de execução de determinado serviço público, expedida pelo superior hierárquico com o escopo de orientar os servidores e colaboradores vinculados no desempenho das atribuições que lhes estão afetas e assegurar a unidade de ação na administração.
+As instruções normativas visam regulamentar a execução interna de lei, decreto, 
+Estatutos ou de demais normas superiores da Universidade, não podendo contrariá-los, uma vez que são atos inferiores, de mero ordenamento administrativo interno.
+Competência
+Reitora, Reitor, Coordenadora Geral, Coordenador Geral, Pró-Reitoras, Pró-Reitores, 
+Vice-Reitoras Executivas, Vice-Reitores Executivos, Diretoras e Diretores de Institutos e Faculdades e Dirigentes de Órgãos (Resolução GR-051/2023 artigo 3º, 1 e 2).
+________________
+Página 43.
+Elementos constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo 
+Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - Nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato INSTRUÇÃO alinhada à esquerda na página, seguida do complemento (Normativa ou Interna), da sigla da Unidade ou Órgão, da numeração sequencial por ano e do ano correspondente. 
+Exemplo: INSTRUÇÃO NORMATIVA SIARQ nº 10/2023.
+Ementa
+Síntese do assunto que está sendo tratado. Deve ser iniciada por verbo na 3ª pessoa do singular do presente do indicativo. Utilizar o estilo itálico. A ementa será alinhada à direita, com recuo de parágrafo à esquerda de 5 cm. 
+Fundamento Legal
+Citar as considerações legais ou administrativas que orientaram ou fundamentaram a matéria com alinhamento justificado.
+Texto
+Texto da instrução, seguida da cláusula de vigência e, se for o caso, da cláusula da revogação.
+________________
+
+
+Página 44.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final (.).
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Em caso de instruções expedidas por órgãos colegiados ou comissões, recomenda-se que a assinatura seja realizada por seus respectivos presidentes.
+Margens da Instrução Normativa
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+
+
+PORTARIA
+
+
+Conceito
+Ato administrativo interno, pelo qual o chefe de Unidade e Órgão da Universidade expede determinações gerais ou especiais aos servidores e colaboradores a eles vinculados; designa servidores para funções secundárias; instituem grupos de trabalho e nomeia membros para compor comissões. Por portaria também se iniciam sindicâncias e processos administrativos disciplinares.
+________________
+
+
+Página 45.
+Competência
+Reitora, Reitor, Coordenadora Geral, Coordenador Geral, Pró-Reitoras, Pró-Reitores, 
+Vice-Reitoras Executivas, Vice-Reitores Executivos, Diretoras e Diretores de Institutos e Faculdades e Dirigentes de Órgãos (Resolução GR-051/2023 artigo 3º, 1 e 2).
+Elementos constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo 
+Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato PORTARIA alinhada à esquerda na página, seguida da sigla da 
+Unidade ou Órgão, da numeração sequencial por ano e do ano correspondente.
+Exemplo: PORTARIA GR nº 2/2023.
+Ementa
+Síntese do assunto que está sendo tratado. Deve ser iniciada por verbo na 3ª pessoa do singular do presente do indicativo. Utilizar o estilo itálico. A ementa será alinhada à direita, com recuo de parágrafo à esquerda de 5 cm.
+Fundamento Legal
+Citação das considerações legais ou administrativas que orientaram ou fundamentaram a tomada de decisão, com alinhamento justificado, seguido do imperativo da ação (resolve, dispõe, designa, constitui).
+________________
+Página 46.
+Texto
+Texto da Portaria, seguida da cláusula de vigência e, se for o caso, da cláusula da revogação.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final (.).
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Margens da Portaria
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+
+
+REGIMENTO
+
+
+Conceito
+Conjunto de princípios, normas e regras que estabelecem as atribuições, o modo de direção, de relacionamentos e de funcionamento interno de um setor, Órgão Colegiado, 
+Comissão ou Grupo de Trabalho. 
+Na Unicamp, o regimento é normalmente aprovado e posto em vigência pelo superior da Unidade ou Órgão ao qual está vinculado ou por deliberação da respectiva congregação ou instância equivalente. 
+________________
+Página 47.
+Difere do Regulamento por se aplicar à organização e dinâmica funcional interna à área que disciplina.
+Competência
+Unidades e Órgãos.
+Elementos Constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo 
+Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato REGIMENTO, seguido do complemento. 
+Exemplo: Regimento Geral da Universidade Estadual de Campinas.
+Texto
+Texto do Regimento, seguido da cláusula de vigência e, se for o caso, da cláusula da revogação.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final (.).
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+________________
+Página 48.
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Em caso de regimentos expedidos por órgãos colegiados ou comissões, recomenda-se que a assinatura seja realizada por seus respectivos presidentes.
+Margens da Regimento
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+
+
+REGULAMENTO
+
+
+Conceito
+“Conjunto das condições em que uma lei deve ser executada” (Bellotto, 2002, página 85), ou seja, é o ato administrativo que explica o modo e a forma de execução e cumprimento de uma norma superior, como Deliberação ou Resolução.
+Difere do Regimento por se referir a normas que não são necessariamente circunscritas ao funcionamento de determinado setor, Órgão Colegiado, Comissão ou Grupo de 
+Trabalho. 
+Competência
+Unidades e Órgãos (Resolução GR-053/2013, artigo 2º, 2).
+Elementos constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+________________
+Página 49.
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo 
+Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à Marge direita;
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato REGULAMENTO alinhada à esquerda na página, seguida da sigla da Unidade ou Órgão, da numeração sequencial por ano e do ano correspondente.
+Exemplo: REGULAMENTO AC/SIARQ nº 5/2023.
+Ementa
+Síntese do assunto que está sendo tratado. Deve ser iniciada por verbo na 3ª pessoa do singular do presente do indicativo. Utilizar o estilo itálico. A ementa será alinhada à direita, com recuo de parágrafo à esquerda de 5 cm.
+Fundamento Legal
+Citar as considerações legais ou administrativas que orientaram ou fundamentaram a matéria com alinhamento justificado.
+Texto
+Texto do Regulamento, seguido da cláusula de vigência e, se for o caso, da cláusula da revogação.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final (.).
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+________________
+Página 50.
+Nome [em negrito]
+Cargo ou função
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Em caso de regulamentos expedidos por órgãos colegiados ou comissões, recomenda-se que a assinatura seja realizada por seus respectivos presidentes.
+Margens do Regulamento
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+
+
+RESOLUÇÃO
+
+
+Conceito
+Ato administrativo normativo expedido pela alta autoridade do Executivo, sendo, no caso da Universidade, a Reitora ou o Reitor.
+Competência
+Privativa de Reitora e Reitor (Resolução GR-051/2023 artigo 2º, 2). 
+Elementos Constitutivos
+Cabeçalho
+O cabeçalho deverá conter:
+• 1 - o logotipo da Unicamp, de acordo com as regras da Universidade (https://www.unicam.br/unicamp/logotipo), alinhado à margem esquerda do documento;
+• 2 - o logotipo da Unidade ou Órgão, quando houver, logo ao lado do logotipo 
+Unicamp;
+• 3 - o nome “Universidade Estadual de Campinas” alinhado à margem direita, na primeira linha;
+• 4 - nome da Unidade ou Órgão por extenso, na segunda linha, alinhado à margem direita;
+________________
+Página 51.
+• 5 - e-mail e site da Unidade ou Órgão, separado pelo caractere “barra reta”, na terceira linha, também alinhado à margem direita.
+Identificação do documento
+Denominação do ato RESOLUÇÃO alinhada à esquerda na página, seguida da sigla da 
+Unidade ou Órgão, da numeração sequencial por ano e do ano correspondente.
+Exemplo: RESOLUÇÃO GR nº 28/2015.
+Como a Resolução é privativa do Reitor, este é citado, logo abaixo da identificação do documento, da seguinte forma: “Reitor: <<nome do Reitor>>”.
+Ementa
+Síntese do assunto que está sendo tratado. Deve ser iniciada por verbo na 3ª pessoa do singular do presente do indicativo. Utilizar o estilo itálico. A ementa será alinhada à direita, com recuo de parágrafo à esquerda de 5 cm.
+Fundamento Legal
+Citação das considerações legais ou administrativas que orientaram ou fundamentaram a tomada de decisão, com alinhamento justificado, seguido do imperativo RESOLVE.
+Texto
+Texto da Resolução, que pode ser dividido em artigos e alíneas, seguida da cláusula de vigência e, se for o caso, da cláusula da revogação.
+Local e data
+O local e a data devem estar localizados na parte inferior do documento, alinhados ao parágrafo, escritos por extenso e finalizados por ponto final (.).
+Identificação da autora ou do autor
+A autora ou o autor do documento é a signatária ou o signatário, que pode ser diferente da redatora ou do redator. A identificação da pessoa signatária deve estar centralizada e obedecer à seguinte ordem de apresentação:
+Assinatura*
+Nome [em negrito]
+Cargo ou função
+________________
+Página 52.
+*No caso das assinaturas eletrônicas, o posicionamento das informações seguirá o padrão estabelecido pelo Sistema Informatizado de Gestão Arquivística de Documentos da Unicamp (SIGAD-Unicamp) e dos demais sistemas informatizados, plataformas ou softwares gerenciadores de assinaturas.
+Margens da carta
+Superior: 1,5 cm Esquerda: 2,5 cm Cabeçalho: 1,5 cm
+Inferior: 1,5 cm Direita: 2,0 cm Rodapé: 0 cm.
+Recuo do parágrafo: 1,25 cm.
+
+
+CAPÍTULO 3 – MENSAGENS DE CORREIO ELETRÔNICO
+
+
+As mensagens eletrônicas apoiam a comunicação no desenvolvimento das atividades desenvolvidas pelas servidoras e pelos servidores no cumprimento das competências das Unidades e Órgãos. São utilizadas de forma cotidiana e frequente, uma vez que agilizam o fluxo de informação, impactando na eficiência dos processos. 
+Desta forma, constituem-se documentos com valores probatórios e informativos, uma vez que, na Universidade, “são considerados documentos arquivísticos aqueles de qualquer tipo e suporte, produzidos, recebidos ou acumulados pelos órgãos e unidades no desempenho de suas funções e em cumprimento de suas competências” (Artigo 4º). 
+Deliberação CONSU-A-10/2013). 
+A rapidez e a flexibilidade da comunicação por mensagens eletrônicas muitas vezes induzem a informalidades que são inadequadas para elaboração de documentos, como a redução de palavras fora do padrão de abreviaturas, jargões, apelidos ou cumprimentos informais.
+Assim, é importante atentar-se que, enquanto documentos elaborados no âmbito da administração pública, as mensagens eletrônicas devem, assim como os atos administrativos, equilibrar os princípios de formalidade previstos na redação oficial e os de clareza e assertividade da linguagem simples e inclusiva.
+________________
+Página 53.
+De acordo com as Diretrizes para a gestão arquivística do correio eletrônico corporativo, estabelecidas pelo Conselho Nacional de Arquivos, as mensagens eletrônicas que integram o acervo arquivístico das instituições têm as seguintes finalidades: 
+• 1 - conduzir as atividades de forma transparente, possibilitando a governança e o controle social das informações;
+• 2 - apoiar e documentar a elaboração de políticas e o processo de tomada de decisão;
+• 3 - possibilitar a continuidade das atividades em caso de sinistro; 
+• 4 - fornecer evidência em caso de litígio; 
+• 5 - proteger os interesses do órgão ou entidade e os direitos dos funcionários e dos usuários; 
+• 6 - assegurar e documentar as atividades de pesquisa, desenvolvimento e inovação; 
+• 7 - manter a memória corporativa e coletiva.
+
+
+A Organização das Nações Unidas - ONU, ao estabelecer orientações sobre como gerenciar a mensagem de correio eletrônico, aponta situações em que é possível identificá-la como documento arquivístico; dentre elas, destaca-se: 
+• 1 - mensagem cujo conteúdo inicia, autoriza ou completa uma ação de um órgão ou entidade; 
+• 2 - mensagem trocada entre pessoas da mesma equipe ou de outras equipes, em trabalho conjunto, e cujo conteúdo se refere à atividade do órgão ou entidade; 
+• 3 - mensagem recebida de fonte externa (pessoa física ou jurídica) que compõe um documento arquivístico oficial; 
+• 4 - mensagem cujo conteúdo refere-se à pauta ou registro de reunião; e 
+• 5 - mensagem cujo conteúdo é nota, relatório final ou recomendação para uma ação em desenvolvimento ou finalizada. 
+As mesmas orientações da ONU apontam situações em que a mensagem de correio eletrônico NÃO é considerada documento arquivístico; dentre elas, destaca-se: 
+________________
+Página 54.
+• 1 - mensagem cujo conteúdo é de caráter pessoal (não tem relação com as atividades do órgão ou entidade); 
+• 2 - mensagem cujo conteúdo se refere a “correntes”, propagandas, promoções e afins.
+
+
+Conceitos
+• 1 - Correio eletrônico: sistema usado para criar, transmitir e receber mensagens eletrônicas e outros documentos digitais por meio de rede de computadores. 
+(CONARQ, 2011, página 127).
+• 2 - Documento arquivístico digital: documento digital reconhecido e tratado como um documento arquivístico. (CONARQ, 2011, página 128). 
+• 3 - Documento arquivístico: documento produzido (elaborado ou recebido), no curso de uma atividade prática, como instrumento ou resultado de tal atividade e retido para ação ou referência. (CONARQ, 2011, página 128).
+• 4 - Endereço de correio eletrônico: nome único de uma caixa postal eletrônica, de uma pessoa, grupo ou organização, associado a um serviço de correio eletrônico. É formado por um identificador (nome, apelido, sigla ou código), um sinal “@” (arroba) e o domínio do provedor do serviço. (CONARQ, 2010b, página 14). 
+• 5 - Mensagem eletrônica: documento digital criado ou recebido via sistema de correio eletrônico, incluindo anexos que possam ser transmitidos com a mensagem. (CONARQ, 2010b, página 17).
+As mensagens eletrônicas integram a política de gestão arquivística de documentos da Unicamp, de acordo com as diretrizes de gestão de documentos arquivísticos digitais, conforme estabelecido pela Resolução GR-017/2011 em seu Artigo 8º:
+Artigo 8º - As mensagens de correio eletrônico e seus anexos contemplados nos Planos de Classificação e de Temporalidade de Documentos, oficializados e aprovados pelas instâncias competentes, deverão integrar o programa de gestão arquivística de documentos da Universidade. 
+Parágrafo único - Para assegurar sua eficácia plena enquanto documento  arquivístico digital, as mensagens de correio eletrônico e seus anexos devem:
+________________
+Página 55.
+a) ser transmitidos em ambiente seguro que ateste a identidade do remetente ou ter certificação digital;
+b) serem capturados, registrados, classificados e gerenciados no sistema informatizado de gestão arquivística de documentos;
+c) estar completos, ser redigidos com linguagem apropriada à comunicação oficial e emitidos por pessoa autorizada.
+Unicamp, Resolução GR-017/2011
+Abaixo, listamos algumas boas práticas para uso do correio eletrônico:
+• 1 - O domínio @unicam.br só deve ser usado para o cumprimento das atividades institucionais, conforme previsto na Política de Segurança da Informação da 
+Universidade (Anexo I da Deliberação CONSU-A-31/2020). 
+• 2 - não compartilhe a sua senha com outros usuários. 
+• 3 - ao criar o e-mail institucional, escolha endereço que faça referência ao seu nome ou às suas iniciais. Evite palavras informais, pois você está representando a instituição. 
+Exemplos: João da Silva: joao@unicamp.br ou joaos@unicamp.br ou js@unicam.br
+• 4 - configure a assinatura automática de suas mensagens, de acordo com os padrões utilizados em sua Unidade ou Órgão. É importante que a assinatura contenha nome completo do servidor, Departamento, Unidade ou Órgão, nome da Universidade e telefones para contato. 
+• 5 - utilize os marcadores de prioridade (urgente, importante) conforme as reais necessidades. 
+• 6 - Ao responder um e-mail em que há destinatárias ou destinatários “em cópia”, atente-se para a pertinência de mantê-los ou não no status “em cópia” nesta resposta.
+• 7 - abra seu e-mail com a frequência adequada à responsividade das demandas do seu trabalho.
+• 8 - programe respostas automáticas com avisos em períodos de ausência, contendo motivo (licença, férias, afastamento), data de retorno e indicação de substitutos para atendimento de demandas.
+________________
+Página 56.
+• 9 - não utilize domínios distintos do @unicam.br para o exercício das atividades profissionais.
+• 10 - Não acesse ou repasse mensagens com conteúdo ilegal, antiético, de “correntes”, propagandas e promoções não alinhadas às atividades em desenvolvimento.
+Elementos Constitutivos
+Cabeçalho
+Destinatário (Para, com cópia e com cópia oculta) 
+• 1 - para: destinatária ou destinatário direto das mensagens.
+• 2 - com cópia: interessadas ou interessados do assunto da mensagem, que necessitam de ciência da mesma.
+• 3 - com cópia oculta: interessadas ou interessados do assunto da mensagem, que necessitam de ciência da mesma, porém, que se mantêm ocultos às demais destinatárias ou destinatários.
+Obs.: acrescente as destinatárias e os destinatários com bastante atenção, após concluir a mensagem. Isso evitará possíveis equívocos na destinação da mensagem.
+Assunto
+Tenha clareza, concisão e objetividade, de forma a facilitar a priorização e a gerência de e-mails por parte da leitora ou leitor.
+Inicie e desenvolva cada novo assunto em novas mensagens, de forma a manter as tratativas organizadas e facilmente recuperáveis. Não inicie novos assuntos respondendo a mensagens anteriores de assuntos distintos.
+Recomenda-se preencher este campo após a elaboração da mensagem.
+Introdução
+As mesmas regras de pronomes de tratamento aplicadas aos atos administrativos aplicam-se aos e-mails. Desta forma, inicie suas mensagens com vocativos, de acordo com o previsto na Redação Oficial. Exemplo: Prezado Senhor; Caro João; Senhor Diretor.
+Texto 
+O conteúdo da mensagem deve ser objetivo, conciso e escrito de maneira formal. Caso o e-mail contenha alguma solicitação à destinatária ou ao destinatário, 
+________________
+Página 57.
+faça-a de maneira clara e expressa, preferencialmente ao final da mensagem. Esse cuidado evitará que a solicitação se perca em meio às demais informações da mensagem.
+Exemplo: “Assim, solicitamos que... ”
+• 1 - evite tratar de dois ou mais assuntos numa mesma mensagem. Suas demandas ou informes ficarão mais claros e terão menores riscos de se perderem em demais informações se você elaborar uma mensagem para cada assunto a ser tratado.
+• 2 - indique expressamente a existência de anexos, no texto da mensagem.
+• 3 - revise a mensagem antes de enviá-la. Por tratar-se de uma correspondência oficial, tal como os demais atos administrativos, é importante que a mensagem seja revisada antes de ser enviada às destinatárias ou destinatários, para correções de erros de ortografia, digitação e gramaticais.
+• não utilize gírias, orações informais ou abreviações de palavras, tais como vc (você), tbm (também) etc.
+• 4 - não utilize tags, gifs, smileys e outras imagens desnecessárias, que poluem visualmente a mensagem.
+• 5 - não estenda a mensagem além do necessário para tratamento do assunto.
+• 6 - não utilize somente letras maiúsculas ou somente letras minúsculas na escrita do texto da mensagem, pois podem passar a sensação de agressividade ou desleixo.
+• 7 - Não utilize a abreviatura “Att., ”, que se refere à expressão em inglês Attention e não atenciosamente; prefira “Atte., ”.
+Cumprimentos de fechamento
+Utilize cumprimentos neutros: “Cordialmente” para mensagens direcionadas a chefes, superioras e superiores e “Atenciosamente” para cargos do mesmo nível ou inferior, e 
+“Grato pela atenção”, “Até” etc. Não utilize termos íntimos: abraços, beijos etc.
+Assinatura
+Conforme já mencionado, recomenda-se a adoção de assinatura automática, contendo nome completo da servidora ou servidor, Departamento, Unidade ou Órgão, nome da Universidade e números de telefones para contato.
+________________
+Página 58.
+
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+ARQUIVO NACIONAL (Brasil). Coordenação-Geral de Gestão de Documentos. Cartilha de gestão de mensagem de correio eletrônico no Arquivo Nacional. Rio de Janeiro: Arquivo Nacional, 2013. Disponível em: https://www.gov.br/arquivonacional/pt-br/servicos/gestaode-documentos/orientacao-tecnica-1/publicacoes-tecnicas-dereferencia/copy_of_cartilha_gestao_correio_eletronico_an-1.pdf. Acesso em: 25 out. 2023.
+ARQUIVO NACIONAL (Brasil). Dicionário brasileiro de terminologia arquivística. Rio de Janeiro: Arquivo Nacional, 2005. Página 231 Disponível em: https://www.gov.br/conarq/ptbr/centrais-de-conteudo/publicacoes/dicionrio_de_terminologia_arquivistica.pdf. Acesso em: 25 out. 2023.
+BELLOTTO, Heloísa Liberalli. Como fazer análise diplomática e análise tipológica de documento de arquivo. São Paulo: Arquivo do Estado, 2002.Página 120  
+BRASIL. Ministério da Saúde. Fundação Oswaldo Cruz. Manual de produção e uso de mensagens de correio eletrônico. 2019. 15 página Disponível em:
+https://vddig.ensp.fiocruz.br/documentos/download/6050c6c5a76b88634c6cc2e2?documento=Manual_de_Producao_e_Uso_de_Mensagens_de_Correio_Eletronico.pdf. Acesso em: 25 out. 2023.
+BRASIL. Presidência da República. Casa Civil. Manual de redação da Presidência da 
+República. 3° edição, revisada, atualizada e ampliada. Brasília: Presidência da República, 2018. Página 189.
+Disponível em: https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de redacao-da-presidencia-da-republica/manual-de-redacao.pdf. Acesso em: 25 out. 2023.
+BRASIL. Presidência da República. Casa Civil. Subchefia para Assuntos Jurídicos. Medida provisória nº 2.200-2, de 24 de agosto de 2001. Institui a Infra-Estrutura de Chaves Públicas Brasileira - ICP-Brasil, transforma o Instituto Nacional de Tecnologia da Informação em autarquia, e dá outras providências. Disponível em:
+________________
+Página 59.
+https://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2200-2.htm. Acesso em: 25 out. 2023.
+BRASIL. Senado Federal. Acordo ortográfico da Língua Portuguesa. 2° edição 2013. Página 101.
+Disponível em:
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/508145/000997415.pdf. Acesso em: 25 out. 2023.
+CAMARGO, Ana Maria de Almeida; BELLOTTO, Heloísa Liberall (coord.). Dicionário de terminologia arquivística. São Paulo: Associação de Arquivistas de São Paulo, 1996. Página 142.
+CAMARGO, Ana Maria de Almeida (et al.). Dar nome aos documentos: da teoria à prática. 
+São Paulo: Instituto Fernando Henrique Cardoso, 2015. Página 347. Disponível em:
+https://fundacaofhc.org.br/files/dar_nome_aos%20documentos.pdf. Acesso em: 25 out. 2023.
+CONSELHO NACIONAL DE ARQUIVOS (Brasil). Câmara Técnica de Documentos Eletrônicos. 
+Diretrizes para a gestão arquivística do correio eletrônico corporativo. Rio de Janeiro, 
+2012. 38 página Disponível em: https://www.gov.br/conarq/pt-br/centrais-deconteudo/publicacoes/Correio_eletronico_completo_2.pdf. Acesso em: 25 out. 2023.
+CONSELHO NACIONAL DE ARQUIVOS (Brasil). Câmara Técnica de Documentos Eletrônicos. 
+Glossário: versão 5.0 - agosto de 2009. Página 24. Disponível em: https://www.gov.br/conarq/ptbr/assuntos/camaras-tecnicas-setoriais-inativas/camara-tecnica-de-documentoseletronicos-ctde/2009_glossario_v5.pdf. Acesso em: 25 out. 2023.
+CONSELHO NACIONAL DE ARQUIVOS (Brasil). Câmara Técnica de Documentos Eletrônicos. 
+________________
+Página 60.
+Glossário dos documentos arquivísticos digitais. 8º versão. 2020. 62 página Disponível em:
+https://www.gov.br/conarq/pt-br/assuntos/camaras-tecnicas-setoriais-inativas/camaratecnica-de-documentos-eletronicos-ctde/glosctde_2020_08_07.pdf. Acesso em: 25 out. 2023.
+DISTRITO FEDERAL (Estado). Tribunal de Contas. Manual de redação oficial Tribunal de Contas do Distrito Federal. 2° edição 2014. disponível em: https://www2.tc.df.gov.br/manualde-redacao-2a-edicao. Acesso em: 25 out. 2023. Página 265.
+DURANTI, Luciana. Diplomática aplicada a documentos convencionais e digitais. Rio de Janeiro: Arquivo Nacional, 2005.
+DURANTI, Luciana. Diplomatics: new uses for an old science. Maryland: Society of American Archivists, 1998.
+MARINELA, Fernanda. Direito administrativo. 3° edição Salvador: Juspodivm, 2007. Volume 1. Página 544.
+MARTINS, Neire do Rossio. Manual de recomendações para a produção de atos administrativos. Campinas: Arquivo Central do Sistema de Arquivos da Universidade 
+Estadual de Campinas, 2017. Página 40. Disponível em: 
+https://www.siarq.unicam.br/images/imagens-artigos/documentosdigitais/Manual_de_Atos_Administrativos_Vers%C3%A3o_19_09_2020.pdf. Acesso em: 26 out. 2023.
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 39. editora São Paulo: Malheiros, 2013. Página 925. 
+PARANÁ (Estado). Manual de comunicação escrita oficial do Estado do Paraná. 3° edição atualizada e revista Curitiba: Departamento Estadual de Arquivo Público, 2005. Página 97. Disponível em:
+https://www.administracao.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-11/manual_comunicacao_escrita.pdf. Acesso em: 23 out. 2023.
+PROJURIS. Artigo 405 ao artigo 429 do Novo CPC comentado artigo por artigo, publicado em 23 de março de 2019, atualizado em 30 de setembro de 2022. Duração: 26 minutos. Por Maria Fernanda Costa de Amorim. Disponível em: 
+________________
+Página 61.
+https://www.projuris.com.br/novo-cpc/art-405-a-429-do-novo-cpc/. Acesso em: 25 out. 2023.
+SÃO BERNARDO DO CAMPO (Município). Manual de padronização de documentos oficiais. 2019. Disponível em 
+https://www.saobernardo.sp.gov.br/documents/10181/940409/Manual+de+Padroniza%C3%A7%C3%A3o+de+Documentos+Oficiais/f44efc64-d6c6-7e62-2b1d-c0ee4add762e. Acesso em: 25 out. 2023. 38 página
+UNIVERSIDADE ESTADUAL DE CAMPINAS. Gabinete do Reitor. Resolução GR 17/2011, de 29 de junho de 2011. Estabelece diretrizes e define procedimentos para a gestão, a preservação e o acesso contínuo aos documentos arquivísticos digitais da Universidade Estadual de Campinas, 2011. Disponível em: https://www.pg.unicam.br/norma/3057/0. Acesso em: 25 out. 2023.
+UNIVERSIDADE ESTADUAL DE CAMPINAS. Gabinete do Reitor. Resolução GR-051/2023, de 21 de dezembro de 2023. Estabelece normas para a elaboração de atos administrativos e dispõe sobre a competência para a sua expedição no âmbito da Unicamp., 2023. Disponível em: https://www.pg.unicam.br/norma/31743/0. Acesso em: 08 jan. 2024.
+UNIVERSIDADE ESTADUAL DE CAMPINAS. Instrução Normativa ConTIC-IN- 01/2019, de 04 de junho de 2019. Estabelece as normas e procedimentos para o uso dos recursos de tecnologia da informação e comunicação na Universidade Estadual de Campinas. Disponível em: 
+https://www.citic.unicam.br/sites/default/files/normas/ConTIC-IN-01%202019%20-%20normas_uso_TIC.pdf. Acesso em: 25 out. 2023
+
+
+                   FIM

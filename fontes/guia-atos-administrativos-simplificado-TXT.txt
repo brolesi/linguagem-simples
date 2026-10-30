@@ -1,0 +1,239 @@
+﻿Material produzido pelo Laboratório de Acessibilidade da Unicamp. Esse serviço encontra-se ancorado na Lei de Inclusão Brasileira nº 13.146 de 06 de julho de 2015, Lei dos Direitos Autorais nº 9.610 de 19 de fevereiro de 1998, e o Tratado de Marraqueche, promulgado por meio do Decreto nº 9.522/2018.
+
+
+GUIA SIMPLIFICADO DE RECOMENDAÇÕES PARA A PRODUÇÃO DE ATOS ADMINISTRATIVOS
+
+
+Este guia foi elaborado com base no Manual de Padronização de Atos Administrativos  da Unicamp, desenvolvido pelo Arquivo Central do Sistema de Arquivos (SIARQ).  
+O principal objetivo é sintetizar os principais conceitos e referências, além de indicar  orientações sobre a produção de atos administrativos, a fim de oferecer instruções  padronizadas para toda a Universidade.  
+
+
+Grupo de Trabalho instituído pela Portaria CGU nº 01/2023: 
+Thiago Pinheiro Rosa (FT e Instrutor Educorp) – Presidente 
+Ana Carolina Braz Moitinho (HC) 
+Angela Noronha Bignami (SG) 
+Ana Paula Montagner (CGU) 
+Carlos Renato Paraizo (DGRH) 
+Décio Henrique Franco (FOP) 
+Edimilson Montalti (HC) 
+Fábio Rodrigo Pinheiro da Silva (SIC) 
+Girlene Otaviano Costa de Rosso (FEQ) 
+Grazielle Cássia Alves de Souza (GGBS) 
+Janaína Adiara Santos (SIARQ) 
+Luiz Carlos Fernandes (GGBS) 
+Patricia Ferrari Schedenffeldt (DGA) 
+Roberta Cristina Dal’Evedove Tartarotti (SBU)
+
+
+Sumário 
+Conceito Página 1.
+Formatação Página 1.
+Espécies Página 3.
+Mensagens Eletrônicas Página 8.
+
+
+Página 1
+Conceito
+Ato administrativo é uma manifestação unilateral de vontade da Administração  Pública, com a finalidade de adquirir, resguardar, transferir, modificar, extinguir e  declarar direitos ou impor obrigações aos administrados ou a si própria, de modo a  satisfazer o interesse público.  
+Para que produzam efeitos válidos, é necessário que os atos administrativos  apresentem cinco requisitos: competência, finalidade, forma, motivo e objeto.
+Competência: Atribuição conferida por lei ao agente público para a prática do ato. 
+Forma: Cumprimento das formalidades legais de como o ato deve ser praticado. 
+Objeto: Resultado prático do ato, ou seja, o efeito imediato ou fato que o ato produz. 
+Finalidade: Resultado que se pretende alcançar com a prática do ato. 
+Motivo: Situação que gera a necessidade do ato e fundamenta a sua prática.
+
+
+Formatação
+Ainda que os documentos sejam cada vez mais produzidos em formato digital, seus formatos e  dimensões seguem os parâmetros das folhas em papel. Neste caso, recomenda-se o padrão A4  (21cm x 29,7cm); 
+Priorize a produção de documentos nato-digitais, com atenção aos requisitos de autenticidade e integridade, por meio da utilização de Sistema Informatizado de Gestão Arquivística de Documentos (SIGAD); 
+Evite a impressão de cópias de documentos nato-digitais; 
+Em caso de necessidade, a impressão dos textos deve  ser feita na cor preta, em papel em branco. A impressão  colorida deve ser usada apenas para gráficos e ilustrações.
+
+
+Fonte 
+Arial ou Calibri, tamanho 12; 
+Em determinadas situações, como citações, notas, observações, podem ser utilizados tamanhos menores: 11 nas citações, notas e observações; e 10 nas notas de rodapé. 
+Página 2
+Estilos de Letra 
+Os estilos sombreado, sublinhado e relevo não devem ser utilizados. Os estilos caixa alta, negrito, itálico ou qualquer outro tipo de formatação que afete a simplicidade do documento devem ser utilizados sem abuso, nas seguintes situações: 
+a) CAIXA ALTA: título dos documentos; 
+b) Negrito: título e destaque de trechos e palavras; 
+c) Itálico: palavras estrangeiras, nomes em latim, gêneros e espécies biológicas. 
+
+
+Margens 
+Superior: 1,5 cm. 
+Inferior: 1,5 cm. 
+Esquerda: 2,5 cm. 
+Direita: 2,0 cm. 
+Cabeçalho: 1,5 cm. 
+Rodapé: 0 cm. 
+
+
+Formatação de Parágrafo
+Alinhamento do texto: Justificado. 
+Entre linhas:
+0pt. após a saudação  ao destinatário ou última  frase, “até o final do documento”. 
+1,5 linha do início até a  saudação final; 
+Simples após saudação  ao destinatário ou última  frase do documento, “até  o final do documento”, incluindo identificação do  autor e endereçamento;  
+4 linhas em branco, com  espaçamento simples,  antes do nome do autor do  documento. 
+Entre parágrafos:
+Automático antes e  depois, até saudação  formal; 
+Página 3
+0pt. após a saudação  ao destinatário ou última frase, “até o final  do documento”. 
+Citações ou transcrições: Esquerdo 2 cm. e direito 2 cm. 
+Avanço de parágrafos:1,25 cm. do início do texto.
+
+
+Numeração de Páginas 
+O número da página do documento deve ser exibido  a partir da segunda página, à direita da página, no  rodapé do documento. 
+
+
+ESPÉCIES 
+ATA 
+Registro expositivo, completo ou resumido, com clareza e fidelidade  das ocorrências, discussões e decisões realizadas em reunião. 
+Competência: Unidades e Órgãos. 
+Recomenda-se inserir nota de aprovação contendo a  denominação da sessão, assembleia ou reunião, data  e possíveis alterações. Exemplo: 
+NOTA DA SG: A presente Ata foi aprovada na 169ª  
+SESSÃO ORDINÁRIA DO CONSELHO UNIVERSITÁRIO,  realizada em 24 de novembro de 2020, com a seguinte  alteração: - Às fls. 433, linhas 33, onde constou: (...) reunião com o coronel Garcia (...), constar: (...) reunião  com o vice-governador Rodrigo Garcia (...). 
+
+
+CARTA 
+Documento utilizado pela Administração Pública para  realizar uma solicitação, convite ou agradecimento.  É também empregada nas comunicações de caráter  social, decorrentes do cargo ou da função públicos  
+exercidos por seus ocupantes. 
+Competência: Unidades e Órgãos. 
+
+
+CERTIFICADO
+Documento que certifica a existência de um fato a partir da  realidade ou de 
+Página 4
+registros (participação em cursos ou eventos  destinados ao desenvolvimento profissional, técnico ou  científico, por exemplo). 
+Competência: Unidades e Órgãos. 
+
+
+COMUNICADO 
+Ato expedido para transmitir breves informações  internas e externas, de caráter geral, dirigido  pessoalmente a alguém ou divulgado para o  conhecimento do público em geral. 
+Competência: Unidades e Órgãos. 
+
+
+DECISÃO 
+Registro numerado da decisão de um Órgão Colegiado, de  forma a solucionar questões submetidas à sua apreciação. 
+Competência: Órgãos Colegiados formalmente instituídos na Unicamp. 
+
+
+DELIBERAÇÃO 
+Ato administrativo normativo e decisório  expedido por Órgãos Colegiados,  sempre em obediência aos Estatutos da  Universidade e ao seu respectivo Regimento  Interno, que regula seu funcionamento.
+Competência: Órgãos Colegiados  formalmente instituídos na Unicamp. 
+As Deliberações Articuladas são privativas do Conselho Universitário e suas Câmaras.
+
+
+DECLARAÇÃO 
+Manifestação de opinião,  conceito, resolução ou  observação a respeito de  algo, emitida por pessoa  física ou por um Órgão  Colegiado. 
+Competência: Unidades e Órgãos. 
+
+
+DESPACHO 
+Decisão técnica (geralmente jurídica) sobre assuntos de interesse  individual ou coletivo que as autoridades emitem em papéis,  requerimentos e processos 
+Página 5
+submetidos à sua apreciação. 
+Competência: Unidades e Órgãos. 
+Na Unicamp, é ato usualmente expedido pela Procuradoria Geral. Não confundir com anotações de ciência, anuência (“de acordo”) e com encaminhamentos de processos (“encaminhe-se…”), geralmente chamados de despachos na Universidade, para os quais recomenda-se o uso da espécie Informação. 
+
+
+INFORMAÇÃO 
+Esclarecimento prestado por servidora ou servidor no exercício  de sua função, a fim de que os dados informados auxiliem a  autoridade competente em suas ações e na solução de problemas. 
+Competência: Unidades e Órgãos.
+Na Unicamp este documento é utilizado de duas formas: 
+a) como meio de rápida comunicação;  
+b) para encaminhamentos em processos. 
+
+
+INSTRUÇÃO NORMATIVA 
+Ordem escrita e geral a respeito  da maneira e forma de executar  determinado serviço público, de modo a assegurar a unidade de ação  na administração. 
+As Instruções Normativas visam  regulamentar a execução interna de  leis, decretos, estatutos ou de demais  normas superiores da Universidade,  não podendo contrariá-los, uma vez  que são atos inferiores, de mero  ordenamento administrativo interno. 
+Competência: 
+Reitora, Reitor, Coordenadora Geral,  Coordenador Geral, Pró-Reitoras,  Pró-Reitores, Vice-Reitoras Executivas,  Vice-Reitores Executivos, Diretoras e  Diretores de Institutos e Faculdades e  Dirigentes de Órgãos.
+
+
+MEMORANDO 
+Forma de correspondência interna,  objetiva e simples, para assuntos  rotineiros entre chefias de uma  mesma Unidade ou Órgão.  
+Página 6
+Competência: Unidades e Órgãos. 
+Na Unicamp, deve ser utilizado para comunicação  interna nas Unidades, Órgãos, Centros e Núcleos Interdisciplinares de Pesquisa, entre responsáveis por áreas. 
+
+
+OFÍCIO 
+É uma forma de correspondência oficial utilizada no serviço público para a comunicação  entre autoridades da mesma categoria, entre servidoras e servidores de diferentes  níveis hierárquicos, assim como entre a Administração e particulares, caracterizada  como instrumento de determinação ou solicitação de algum assunto profissional. 
+Competência: Unidades e Órgãos. 
+Na Unicamp, deve ser utilizado para comunicação entre dirigentes de Unidades, Órgãos, Centros e Núcleos Interdisciplinares de Pesquisa. 
+
+
+OFÍCIO CIRCULAR 
+Ordem escrita, de caráter uniforme, de comunicação e correspondência, expedida a servidoras e servidores responsáveis por certo serviço ou pelo desempenho de certas  atribuições em circunstâncias especiais. 
+Competência: Reitora, Reitor, Coordenadora Geral, Coordenador Geral,  Pró-Reitoras, Pró-Reitores, Vice-Reitoras  Executivas, Vice-Reitores Executivos, Diretoras e Diretores de Institutos e Faculdades e Dirigentes de Órgãos. 
+Pode-se produzir um Ofício Circular com a  mesma numeração para cada destinatário  ou apenas um Ofício com os destinatários descritos de forma genérica. Exemplo:  Senhoras Diretoras e Senhores Diretores de  Unidades e Órgãos. 
+
+
+PARECER
+Opinião técnica ou científica sobre um ato, servindo de base para a tomada de decisão.
+Competência: Unidades e Órgãos.
+
+
+Página 7
+PAUTA 
+Relação de itens a serem abordados  em uma reunião. 
+Competência: Unidades e Órgãos. 
+Na Unicamp, geralmente estes itens dividem-se em 2 seções: 
+- Expediente: assuntos para ciência do Órgão Colegiado, Comissão ou Grupo de Trabalho; 
+- Ordem do dia: assuntos que demandam manifestações ou decisões do Órgão Colegiado, Comissão ou Grupo de Trabalho.Opinião técnica ou científica sobre um ato, servindo de base para a tomada de decisão. 
+Competência: 
+Unidades e Órgãos. 
+
+
+PORTARIA 
+Ato administrativo interno,  pelo qual chefias de Unidades  e Órgãos da Universidade expedem determinações gerais ou  especiais a servidoras, servidores,  colaboradoras e colaboradores  a eles vinculados, designam servidoras e servidores para  funções secundárias, instituem  grupos de trabalho e nomeiam  membros para compor comissões.  Por Portaria também se iniciam  sindicâncias e processos administrativos disciplinares. 
+Competência: Reitora, Reitor, Coordenadora Geral,  Coordenador Geral, Pró-Reitoras,  Pró-Reitores, Vice-Reitoras Executivas, Vice-Reitores Executivos, Diretoras e Diretores  de Institutos e Faculdades e  Dirigentes de Órgãos.
+
+
+RELATÓRIO 
+Exposição de ocorrências,  fatos, despesas, transações,  situações ou de atividades  realizadas, com a finalidade  de prestar conta de seus atos  à autoridade superior. 
+Competência: Unidades e Órgãos
+
+
+REGIMENTO 
+Conjunto de princípios, normas  e regras que estabelecem as atribuições, o modo 
+Página 8
+de direção, de  relacionamentos e de funcionamento  interno de um setor, Órgão Colegiado,  Comissão ou Grupo de Trabalho.  Difere-se do Regulamento por  aplicar-se à organização e dinâmica  funcional interna à área que disciplina.
+Competência: Unidades e Órgãos. 
+Na Unicamp, o Regimento é normalmente aprovado e colocado em vigência pela  
+
+
+REGULAMENTO 
+Conjunto das condições em  que uma lei deve ser executada,  ou seja, é o ato administrativo  que explica o modo e a forma  de execução e cumprimento  de uma norma superior, como  Deliberação ou Resolução.  Difere-se do Regimento por se  referir a normas que não são  necessariamente limitadas ao  funcionamento de determinado  setor, Órgão Colegiado, Comissão ou Grupo de Trabalho. 
+Competência: 
+Diretoras, Diretores, Coordenadoras e Coordenadores.superiora ou pelo superior  da Unidade ou Órgão ao  qual está vinculado ou por  Deliberação da respectiva  Congregação ou Instância  Equivalente.
+
+
+RESOLUÇÃO 
+Ato administrativo normativo  expedido pela alta autoridade  do Executivo, sendo, no caso da  Universidade, a Reitora ou Reitor. 
+Competência: 
+Privativa de Reitora e Reitor.  
+
+
+MENSAGENS  ELETRÔNICAS
+As mensagens eletrônicas desempenham um papel crucial na comunicação entre  
+funcionárias e funcionários das diversas Unidades e Órgãos da Universidade,  contribuindo significativamente para a eficiência do trabalho ao facilitar o fluxo de  informações.  
+É importante reconhecer que essas mensagens são consideradas documentos oficiais,  com validade probatória, de acordo com as normas da instituição. 
+Página 9
+Portanto, é fundamental que mantenham um padrão de formalidade e clareza,  evitando linguagem excessivamente informal, abreviações não padronizadas, jargões  ou cumprimentos casuais.
+
+
+Orientações para o uso  do e-mail institucional 
+O domínio @unicamp.br apenas deve ser usado para o cumprimento das atividades institucionais, conforme previsto na Política de Segurança da Informação da Universidade (Anexo I da Deliberação CONSU-A-31/2020). 
+Não compartilhe a sua senha com outros usuários.
+Ao criar o e-mail institucional, escolha  endereço que faça referência ao seu nome  ou às suas iniciais. Evite palavras informais,  pois você está representando a instituição.  Exemplos: João da Silva: joao@unicamp.br  ou joaos@unicamp.br ou js@unicamp.br. Configure a assinatura automática de suas mensagens, de acordo com os padrões utilizados em sua Unidade e Órgão. É importante que a assinatura contenha nome completo da servidora ou servidor, Departamento, Unidade ou Órgão, nome da Universidade e telefones para contato.
+Ao responder um e-mail em que há destinatárias ou destinatários “em cópia”, atente-se para a pertinência de mantê-los ou não copiados nesta resposta. 
+Abra seu e-mail com a frequência adequada à necessidade de respostas das demandas do seu trabalho.
+Programe respostas automáticas, com avisos, em períodos de ausência, contendo motivo (licença, férias, afastamento), data de retorno e indicação de substitutos para atendimento de demandas. Não utilize domínios distintos do  
+@unicamp.br para o exercício das atividades profissionais; 
+Não acesse ou repasse mensagens com conteúdo ilegal, antiético, de “correntes”, propagandas e promoções não alinhadas às atividades em desenvolvimento.
