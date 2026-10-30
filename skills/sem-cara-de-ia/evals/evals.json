@@ -1,0 +1,53 @@
+{
+  "skill_name": "sem-cara-de-ia",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Tira a cara de IA deste post do LinkedIn:\n\nNo mundo atual, a liderança não é apenas sobre dar ordens. É sobre inspirar pessoas. 🚀\n\nAo longo da minha jornada, aprendi três lições fundamentais:\n\n- **Escuta:** Escutar é essencial para entender o time.\n- **Empatia:** A empatia fortalece as relações.\n- **Propósito:** O propósito guia as decisões.\n\nE você, o que pensa sobre isso? Deixe nos comentários! 👇",
+      "expected_output": "Post sem a fórmula 'não é X, é Y', sem lista com rótulo, sem emoji e sem pergunta de engajamento, sem inventar história pessoal.",
+      "files": [],
+      "expectations": [
+        "Não sobrou 'no mundo atual', 'não é apenas', 'jornada' nem 'fundamentais'",
+        "A lista com rótulos em negrito virou frase corrida ou lista sem rótulo",
+        "Não há emoji nem 'deixe nos comentários'",
+        "Não inventou caso, empresa, número ou experiência que não estava no original",
+        "Avisa que o original tem pouca substância concreta"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Revise se este parágrafo parece IA, sem reescrever: 'Em um cenário cada vez mais desafiador, o projeto desempenhou um papel crucial na transformação dos processos internos. Além disso, a iniciativa promoveu maior integração entre as equipes, evidenciando o potencial da colaboração. Dessa forma, é possível afirmar que os resultados foram extremamente positivos.'",
+      "expected_output": "Diagnóstico com notas nas cinco dimensões e lista de problemas com trecho e sugestão, sem texto reescrito.",
+      "files": [],
+      "expectations": [
+        "Dá nota de 1 a 10 em objetividade, ritmo, confiança no leitor, especificidade e densidade",
+        "Aponta a moldura 'cenário cada vez mais desafiador', 'papel crucial', o gerúndio 'evidenciando' e a cadeia 'Além disso… Dessa forma'",
+        "Aponta a falta de números ou fatos verificáveis",
+        "Não entrega uma versão reescrita completa"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Deixa este e-mail mais natural, modo leve: 'Olá, Marina! Espero que esteja bem. Gostaria de destacar que o relatório foi finalizado e encontra-se disponível na pasta compartilhada. Fico à disposição para quaisquer esclarecimentos que se façam necessários. Abraços!'",
+      "expected_output": "E-mail quase igual, só sem os vícios fortes, mantendo o tom cordial.",
+      "files": [],
+      "expectations": [
+        "Mantém a informação: relatório pronto, na pasta compartilhada",
+        "Corta 'gostaria de destacar que' e 'que se façam necessários'",
+        "Mantém a estrutura de e-mail curto e o tom cordial",
+        "Não acrescenta informação nova (prazo, link, nome da pasta)"
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "Humaniza este texto. Ele tem caracteres estranhos copiados de um PDF: 'O​ prazo de inscrição termina dia 10. Os can­didatos devem enviar o formulário.'",
+      "expected_output": "Texto limpo e aviso de que havia um espaço de largura zero e um hífen invisível.",
+      "files": [],
+      "expectations": [
+        "Remove o espaço de largura zero e o hífen invisível",
+        "Avisa quais e quantos caracteres invisíveis foram removidos",
+        "Preserva o prazo 'dia 10'"
+      ]
+    }
+  ]
+}

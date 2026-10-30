@@ -4,7 +4,10 @@
 Uso:
     python verificar.py texto.md
     python verificar.py --json texto.md
+    python verificar.py --limite 8 texto.md   (código 1 se passar do limite)
     cat texto.md | python verificar.py -
+
+Códigos de saída: 0 ok, 1 acima do --limite, 2 erro ao ler o arquivo.
 
 Só usa a biblioteca padrão. Os achados são alertas para julgamento humano:
 o que conta é a densidade, não cada ocorrência isolada.
@@ -31,7 +34,7 @@ IA_FORTE = {
     "resumindo:": "termine no último ponto que importa",
     "em conclusão": "termine no último ponto que importa",
     "em última análise": "corte",
-    "no mundo atual": "comece pelo assunto",
+    "mundo atual": "diga qual mudança concreta, ou corte",
     "nos dias de hoje": "comece pelo assunto",
     "nos dias atuais": "comece pelo assunto",
     "mundo cada vez mais": "comece pelo assunto",
@@ -83,6 +86,14 @@ IA_FORTE = {
     "você já parou para pensar": "afirme",
     "pense nisso": "corte",
     "sem sombra de dúvida": "corte",
+    "temos o prazer de": "dê a notícia direto",
+    "temos a satisfação de": "dê a notícia direto",
+    "reflete nosso compromisso": "diga o que foi feito",
+    "reforça nosso compromisso": "diga o que foi feito",
+    "reforça o compromisso": "diga o que foi feito",
+    "reforça seu compromisso": "diga o que foi feito",
+    "compromisso contínuo": "diga o que foi feito",
+    "importância crucial": "diga por que importa, com um fato",
 }
 
 # Normais em texto humano; viram sinal quando se acumulam (2+ no texto).
@@ -109,6 +120,7 @@ IA_DENSIDADE = {
     "estudos indicam": "nomeie a fonte ou corte",
     "pesquisas mostram": "nomeie a fonte ou corte",
     "de suma importância": "importante",
+    "excelência": "", "transformação": "", "impactando": "afetando (ou o efeito concreto)",
 }
 
 # Burocratês e chavões dos guias de redação oficial e de linguagem simples.
@@ -130,6 +142,11 @@ BUROCRATES = {
     "devido ao fato de": "porque, por causa de",
     "tendo em vista que": "como, porque",
     "em virtude de": "por, por causa de",
+    "em virtude da": "pela, por causa da",
+    "em virtude do": "pelo, por causa do",
+    "no período compreendido entre": "entre, de … a …",
+    "a partir da presente data": "a partir de [data]",
+    "sendo que": "e, mas (ou divida a frase)",
     "no sentido de": "para",
     "com o objetivo de": "para",
     "com a finalidade de": "para",
@@ -194,6 +211,10 @@ DISCRIMINATORIOS = {
     "portadora de deficiência": "pessoa com deficiência",
     "portadores de deficiência": "pessoas com deficiência",
     "os deficientes": "as pessoas com deficiência",
+    "prezados senhores": "Prezadas Senhoras e Prezados Senhores",
+    "prezados colaboradores": "Prezadas e prezados, ou o nome da equipe",
+    "a todos os servidores": "às servidoras e aos servidores, ou 'você'",
+    "todo cidadão": "toda cidadã e todo cidadão",
 }
 
 # Siglas tão comuns que não exigem nome por extenso.
@@ -211,7 +232,7 @@ GERUNDIO_ENFEITE = (
     "demonstrando|evidenciando|refletindo|destacando|reforçando|fortalecendo|ampliando|"
     "otimizando|facilitando|assegurando|gerando|trazendo|oferecendo|consolidando|"
     "impulsionando|potencializando|tornando|buscando|visando|simbolizando|marcando|"
-    "abrindo|elevando|transformando|criando|agregando|valorizando|resultando"
+    "abrindo|elevando|transformando|criando|agregando|valorizando|resultando|impactando"
 )
 
 INVISIVEIS = {
@@ -230,7 +251,7 @@ PADROES = [
      3, "fórmula 'não é X, é Y': afirme Y direto"),
     ("paralelismo negativo", r"\bnão (?:apenas|só|somente)\b[^.!?\n]{1,80}?\bmas(?: também)?\b",
      2, "'não apenas X, mas Y': diga as duas coisas sem a rampa"),
-    ("paralelismo negativo", r"\bmais do que (?:um|uma|apenas|só)\b[^.!?\n]{1,60}?[,.]\s*(?:é|são)\b",
+    ("paralelismo negativo", r"\bmais do que (?:um|uma|apenas|só)\b[^.!?\n]{1,60}?[,.]\s*(?:[^.!?\n]{0,40}?\b)?(?:é|são|representa|significa|torna-se)\b",
      3, "'mais do que X, é Y': afirme Y direto"),
     ("paralelismo negativo", r"\bdeixou de ser\b[^.!?\n]{1,60}?\b(?:se tornou|passou a ser|para (?:se tornar|ser))\b",
      2, "'deixou de ser X e virou Y': diga o que é hoje, com dado"),
@@ -243,6 +264,9 @@ PADROES = [
     ("voz passiva com agente",
      r"\b(?:foi|foram|será|serão|é|são|era|eram|seja|sejam|tem sido|têm sido)\s+\w+(?:ado|ada|ados|adas|ido|ida|idos|idas)\s+pel[oa]s?\b",
      1, "passiva com agente: ponha quem faz no começo (ordem direta)"),
+    ("substantivo no lugar do verbo",
+     r"\b(?:ser|sendo|foi|foram|será|serão|deverá ser|deverão ser|deve ser|devem ser)\s+(?:realizad|efetuad)\w*\b|\brealização d[eaoe]s?\b",
+     1, "troque 'deverá ser realizada' ou 'a realização de' pelo verbo da ação: 'peça', 'faça', 'inscreva-se'"),
     ("substantivo no lugar do verbo",
      r"\b(?:realiz|efetu|proced|promov)\w*\s+(?:a|à|o|ao|as|os|uma|um)\s+\w+(?:ção|ções|mento|mentos|agem)\b",
      1, "troque 'realizar a inscrição' por 'inscrever-se', 'efetuar o pagamento' por 'pagar'"),
@@ -257,6 +281,7 @@ def normalizar(texto):
     """Remove blocos de código e devolve só a prosa."""
     texto = re.sub(r"```.*?```", " ", texto, flags=re.S)
     texto = re.sub(r"`[^`]*`", " ", texto)
+    texto = re.sub(r"https?://\S+|www\.\S+|\S+@\S+\.\w+", " ", texto)
     return texto
 
 
@@ -352,7 +377,9 @@ def analisar(bruto):
 
     # Listas de expressões.
     buscar_lista(texto, baixo, IA_FORTE, "expressão típica de IA", 3, achados)
-    buscar_lista(texto, baixo, IA_DENSIDADE, "expressão repetida", 1, achados, minimo=2)
+    # Texto longo tolera mais repetições: 2 até 1.000 palavras, depois 1 a mais a cada 500.
+    buscar_lista(texto, baixo, IA_DENSIDADE, "expressão repetida", 1, achados,
+                 minimo=max(2, -(-total_palavras // 500)))
     buscar_lista(texto, baixo, BUROCRATES, "burocratês/chavão", 2, achados)
     buscar_lista(texto, baixo, DISCRIMINATORIOS, "termo pejorativo ou excludente", 3, achados)
 
@@ -392,11 +419,16 @@ def analisar(bruto):
 
     # Aberturas repetidas.
     inicios = [palavras(f)[0].lower() for _, f in todas_frases if palavras(f)]
-    for i in range(len(inicios) - 2):
-        if inicios[i] == inicios[i + 1] == inicios[i + 2] and len(inicios[i]) > 2:
+    i = 0
+    while i < len(inicios):
+        j = i
+        while j + 1 < len(inicios) and inicios[j + 1] == inicios[i]:
+            j += 1
+        if j - i >= 2 and len(inicios[i]) > 2:  # uma sequência conta uma vez só
             achados.append({"categoria": "aberturas repetidas", "peso": 1, "linha": todas_frases[i][0],
-                            "trecho": f"3 frases seguidas começam com '{inicios[i]}'",
-                            "sugestao": "varie a abertura ou junte as frases"})
+                            "trecho": f"{j - i + 1} frases seguidas começam com '{inicios[i]}'",
+                            "sugestao": "varie a abertura ou junte as frases (ignore se for tabela ou formulário)"})
+        i = j + 1
 
     # Tipografia de IA.
     for n, t in titulos:
@@ -446,15 +478,26 @@ def analisar(bruto):
         antes, depois = texto[max(0, m.start() - 3):m.start()], texto[m.end():m.end() + 2]
         if re.search(r"[(–—-]\s?$", antes) or depois.startswith(" (") or depois.startswith("("):
             continue
-        if texto[max(0, m.start() - 2):m.start()].endswith("# ") or m.group(0).isupper() and len(m.group(0)) > 6:
+        if texto[max(0, m.start() - 2):m.start()].endswith("# ") or m.group(0).isupper() and len(m.group(0)) > 5:
+            continue
+        # Palavra em caixa alta (título, nome em referência ABNT) não é sigla.
+        ini_linha = texto.rfind("\n", 0, m.start()) + 1
+        fim_linha = texto.find("\n", m.end())
+        linha = texto[ini_linha:fim_linha if fim_linha != -1 else len(texto)]
+        letras = [c for c in linha if c.isalpha()]
+        vizinhas = re.findall(r"[\wÀ-ÿ]+", texto[max(0, m.start() - 25):m.start()])[-1:] + \
+            re.findall(r"[\wÀ-ÿ]+", texto[m.end():m.end() + 25])[:1]
+        if (sum(c.isupper() for c in letras) >= 0.6 * len(letras)
+                or any(len(v) >= 2 and v.isupper() for v in vizinhas)
+                or re.match(r",\s+[A-ZÁÉÍÓÚ][a-zà-ÿ]", texto[m.end():m.end() + 4])):
             continue
         achados.append({"categoria": "sigla sem explicação", "peso": 1, "linha": linha_de(texto, m.start()),
                         "trecho": trecho(texto, m.start(), m.end(), 20),
                         "sugestao": f"na primeira vez, escreva o nome completo: 'Nome por extenso – {sigla}'"})
 
     pontos = sum(a["peso"] for a in achados)
-    # shortcut: piso de 150 palavras para texto curto não ser punido por 1 ou 2 achados leves.
-    densidade = pontos / max(total_palavras, 150) * 100
+    # shortcut: piso de 100 palavras para texto curto não ser punido por 1 ou 2 achados leves.
+    densidade = pontos / max(total_palavras, 100) * 100
     if densidade < 3:
         veredito = "bom: revise só os achados de peso 3"
     elif densidade < 8:
@@ -496,21 +539,33 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("arquivo", help="arquivo de texto ou markdown; '-' lê da entrada padrão")
     ap.add_argument("--json", action="store_true", help="saída em JSON")
+    ap.add_argument("--limite", type=float, metavar="N",
+                    help="sai com código 1 se os pontos por 100 palavras forem N ou mais (para CI e pre-commit)")
     args = ap.parse_args()
-    if hasattr(sys.stdout, "reconfigure"):
-        sys.stdout.reconfigure(encoding="utf-8")
-    if args.arquivo == "-":
-        sys.stdin.reconfigure(encoding="utf-8")
-        texto = sys.stdin.read()
-    else:
-        with open(args.arquivo, encoding="utf-8") as f:
-            texto = f.read()
+    for fluxo in (sys.stdout, sys.stderr):
+        if hasattr(fluxo, "reconfigure"):
+            fluxo.reconfigure(encoding="utf-8")
+    try:
+        if args.arquivo == "-":
+            sys.stdin.reconfigure(encoding="utf-8")
+            texto = sys.stdin.read()
+        else:
+            with open(args.arquivo, encoding="utf-8-sig") as f:
+                texto = f.read()
+    except OSError as e:
+        print(f"Não consegui abrir '{args.arquivo}': {e.strerror}", file=sys.stderr)
+        sys.exit(2)
+    except UnicodeDecodeError:
+        print(f"'{args.arquivo}' não está em UTF-8. Salve o arquivo como UTF-8 e tente de novo.", file=sys.stderr)
+        sys.exit(2)
     texto = unicodedata.normalize("NFC", texto)
     r = analisar(texto)
     if args.json:
         print(json.dumps(r, ensure_ascii=False, indent=2))
     else:
         imprimir(r)
+    if args.limite is not None and r["pontos_por_100_palavras"] >= args.limite:
+        sys.exit(1)
 
 
 if __name__ == "__main__":

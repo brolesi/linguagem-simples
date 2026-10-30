@@ -1,0 +1,105 @@
+{
+  "skill_name": "linguagem-simples",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Escreva um aviso para os moradores sobre a vacinação de cães e gatos no sábado, 14 de junho, das 8h às 16h, na Praça da Matriz. É gratuita e precisa levar a carteirinha de vacinação, se tiver. Público: moradores do bairro, muitos idosos.",
+      "expected_output": "Aviso curto, com o quê, quando e onde na abertura, lista só para o que levar, sem emoji, sem exclamação em série, sem rótulos em negrito.",
+      "files": [],
+      "expectations": [
+        "A data, o horário e o local aparecem nas duas primeiras frases",
+        "Nenhum dado foi inventado além dos fornecidos (telefone, nome de órgão, número de vagas)",
+        "Não há emoji nem título em Title Case",
+        "Não há lista no formato '**Rótulo:** frase'",
+        "Não há a fórmula 'não é X, é Y' nem fecho motivacional",
+        "O verificador dá veredito 'bom'"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Reescreva em linguagem simples, mantendo a formalidade:\n\nSenhor Diretor,\n\nVimos, por meio deste, levar ao conhecimento de Vossa Senhoria que se faz necessária a substituição dos equipamentos de informática do Laboratório de Ensino, tendo em vista que os mesmos encontram-se em estado de obsolescência. Outrossim, informamos que o orçamento em epígrafe segue anexo.\n\nSem mais para o momento, reiteramos protestos de elevada estima e consideração.",
+      "expected_output": "Ofício que abre com 'Solicitamos', sem chavões, com fecho 'Atenciosamente,' e marcação [INFORMAR] para dados que faltam (quantidade, valor).",
+      "files": [],
+      "expectations": [
+        "A primeira frase do corpo é o pedido, começando por verbo (Solicitamos ou equivalente)",
+        "Não restou 'vimos, por meio deste', 'outrossim', 'em epígrafe', 'sem mais para o momento' nem 'reiteramos protestos'",
+        "O fecho é 'Atenciosamente,' ou 'Respeitosamente,' com vírgula",
+        "O texto continua impessoal: sem 'eu acho', sem opinião, sem exclamação",
+        "Não inventou quantidade de computadores nem valor do orçamento; se citou, usou [INFORMAR: ...]"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Simplifique este trecho para publicar no site da prefeitura: 'O contribuinte que não efetuar o pagamento do IPTU até a data de vencimento estará sujeito à incidência de multa moratória de 0,33% ao dia, limitada a 20%, acrescida de juros de mora calculados com base na taxa Selic, nos termos do art. 15 da Lei Municipal nº 1.234/2010.'",
+      "expected_output": "Texto em 'você', com a multa, o limite, os juros e a base legal preservados, sigla IPTU e Selic explicadas.",
+      "files": [],
+      "expectations": [
+        "Os números 0,33%, 20% e a Lei nº 1.234/2010 foram preservados sem alteração",
+        "IPTU aparece com o nome completo na primeira vez, e Selic recebe explicação",
+        "O texto fala com a pessoa ('você', 'se você pagar depois')",
+        "Nenhuma regra nova foi acrescentada (por exemplo, parcelamento ou desconto)"
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "Revise este comunicado e diga o que está ruim:\n\nPrezados colaboradores,\n\nTemos o prazer de anunciar uma importante novidade! A partir de hoje, as solicitações de férias passam a ser feitas exclusivamente pelo sistema eletrônico, tornando o processo mais ágil, sustentável e transparente. Essa mudança reflete nosso compromisso contínuo com a inovação. Em caso de dúvidas, estaremos sempre à disposição para ajudar!",
+      "expected_output": "Diagnóstico com notas por categoria e problemas em ordem de gravidade, citando trecho e correção.",
+      "files": [],
+      "expectations": [
+        "Traz uma nota para objetivo, conteúdo, organização, linguagem e cara de IA",
+        "Aponta 'Prezados colaboradores' como linguagem que exclui",
+        "Aponta o gerúndio 'tornando' e o trio 'ágil, sustentável e transparente'",
+        "Aponta 'reflete nosso compromisso contínuo' como frase vazia",
+        "Aponta que falta informação útil: nome do sistema, data de início, canal de dúvida",
+        "Não reescreve o texto inteiro sem que isso tenha sido pedido"
+      ]
+    },
+    {
+      "id": 5,
+      "prompt": "Faça um e-mail institucional avisando a equipe que o prazo do relatório anual mudou.",
+      "expected_output": "E-mail curto com marcações [INFORMAR] para o prazo antigo, o novo e o motivo, sem inventar datas.",
+      "files": [],
+      "expectations": [
+        "Usa [INFORMAR: ...] para o novo prazo em vez de inventar uma data",
+        "Avisa no fim quais informações ficaram pendentes",
+        "Tem assunto que descreve o conteúdo",
+        "Não começa com 'Espero que este e-mail os encontre bem' nem termina com 'Qualquer dúvida, estamos à disposição!'"
+      ]
+    },
+    {
+      "id": 6,
+      "prompt": "Reescreva em linguagem simples: 'Os candidatos deverão apresentar, no ato da matrícula, os documentos elencados no Anexo I, sob pena de indeferimento, ressalvados os casos previstos no item 4.3 do Edital.'",
+      "expected_output": "Orientação em 'você' que mantém a consequência (matrícula negada) e a exceção (item 4.3).",
+      "files": [],
+      "expectations": [
+        "Mantém a consequência de não apresentar os documentos",
+        "Mantém a exceção do item 4.3 do edital",
+        "Remove 'elencados', 'sob pena de', 'indeferimento' ou explica o termo",
+        "Não lista documentos que não foram informados"
+      ]
+    },
+    {
+      "id": 7,
+      "prompt": "Escreva uma página de perguntas frequentes sobre como pedir a segunda via do diploma. Informações: pedido pelo site da Diretoria Acadêmica, taxa de R$ 80, prazo de 30 dias úteis, retirada presencial com documento com foto.",
+      "expected_output": "FAQ com perguntas reais do público e respostas diretas, usando só os dados fornecidos.",
+      "files": [],
+      "expectations": [
+        "As perguntas são dúvidas reais de quem pede o diploma, não perguntas retóricas",
+        "Cada resposta começa pela resposta, não por contexto",
+        "Usa somente taxa, prazo e canal fornecidos",
+        "As respostas não têm todas o mesmo tamanho nem o mesmo formato"
+      ]
+    },
+    {
+      "id": 8,
+      "prompt": "Reescreva para o público geral: 'A ausência do servidor nas datas supramencionadas implicará desconto, salvo justificativa.'",
+      "expected_output": "Aponta a ambiguidade (quais datas? que justificativa vale?) em vez de escolher uma leitura em silêncio.",
+      "files": [],
+      "expectations": [
+        "Aponta que 'datas supramencionadas' não estão no trecho e marca [INFORMAR] ou pergunta",
+        "Mantém o sentido: falta sem justificativa gera desconto",
+        "Usa forma inclusiva ou 'você' no lugar de 'o servidor'"
+      ]
+    }
+  ]
+}

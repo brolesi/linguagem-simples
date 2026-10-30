@@ -1,5 +1,7 @@
 # Linguagem simples
 
+[![testes](https://github.com/brolesi/linguagem-simples/actions/workflows/testes.yml/badge.svg)](https://github.com/brolesi/linguagem-simples/actions/workflows/testes.yml)
+
 Duas skills para agentes de IA (Claude Code, Claude.ai e outros que leem `SKILL.md`) que escrevem em português do Brasil:
 
 - **`linguagem-simples`** escreve, reescreve e revisa textos para que qualquer pessoa entenda na primeira leitura. Segue os guias de linguagem simples e de redação oficial da Unicamp e termina com uma revisão para tirar os vícios de texto gerado por IA.
@@ -132,6 +134,14 @@ python skills/linguagem-simples/scripts/verificar.py --json meu-texto.md
 
 Também lê da entrada padrão com `-` no lugar do arquivo.
 
+Com `--limite`, o verificador sai com código 1 quando o texto passa do limite de pontos por 100 palavras. Assim dá para barrar texto ruim num pipeline ou num hook de pre-commit:
+
+```bash
+python skills/linguagem-simples/scripts/verificar.py --limite 8 docs/aviso.md
+```
+
+Códigos de saída: 0 quando está tudo certo, 1 quando passa do `--limite`, 2 quando não consegue ler o arquivo (inexistente ou fora de UTF-8).
+
 O relatório mostra o tamanho médio das frases, a variação de tamanho das frases e dos parágrafos, os achados com linha, trecho e sugestão, e um veredito:
 
 - **bom**: menos de 3 pontos por 100 palavras;
@@ -157,11 +167,40 @@ Cada achado tem peso de 0 a 3. Peso 3 é para o que quase nunca aparece em texto
 | Tipografia | Title Case, lista com rótulo em negrito, excesso de negrito, travessão, emoji, exclamação, dois-pontos como muleta |
 | Caracteres invisíveis | Espaço de largura zero, hífen invisível, marcas de direção, letras cirílicas e gregas no meio de palavras |
 
-Para rodar os testes:
+### Calibração
+
+Os limites foram ajustados contra dois conjuntos de texto, e os testes garantem que continuem valendo:
+
+- **Os exemplos do guia.** As seis versões finais de [`exemplos.md`](skills/linguagem-simples/references/exemplos.md) precisam dar "bom". As versões burocráticas e as versões com cara de IA precisam dar "revisar" ou "reescrever".
+- **Texto humano.** Os quatro guias da Unicamp em `fontes/` foram escritos por pessoas. Eles podem ter achados (frases longas, burocratês citado como exemplo do que evitar), mas nunca o veredito "reescrever".
+
+Se você mudar uma lista ou um peso e um desses casos quebrar, o teste avisa.
+
+Alguns cuidados contra falso positivo:
+
+- palavras em caixa alta (títulos, sobrenomes em referência ABNT) e trechos de URL não contam como sigla;
+- uma sequência de frases com a mesma abertura conta uma vez só;
+- expressões comuns toleram mais repetições em texto longo (duas até 1.000 palavras, mais uma a cada 500);
+- texto com menos de 100 palavras é medido como se tivesse 100, para um único achado não decidir o veredito.
+
+### Testes
 
 ```bash
 cd skills/linguagem-simples/scripts && python -m unittest test_verificar.py
 ```
+
+São 22 testes: as regras do verificador, os casos de borda, a calibração acima, a linha de comando e a integridade do repositório (links relativos, manifestos do plugin, frontmatter das skills). O [GitHub Actions](.github/workflows/testes.yml) roda tudo em Linux e Windows, com Python 3.9 e 3.13, a cada push e pull request.
+
+## Evals das skills
+
+O verificador mede o texto. Os evals medem a skill: se ela segue o processo, preserva fatos, não inventa dados e entrega no formato certo. Ficam em `skills/<skill>/evals/evals.json`, no formato do [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator).
+
+| Skill | Casos | O que cobrem |
+|---|---|---|
+| `linguagem-simples` | 8 | Aviso do zero, ofício burocrático, texto legal com números, revisão sem reescrita, e-mail sem dados (precisa usar `[INFORMAR]`), edital com exceção, FAQ, trecho ambíguo |
+| `sem-cara-de-ia` | 4 | Post de LinkedIn sem substância, diagnóstico sem reescrita, modo leve num e-mail, caracteres invisíveis |
+
+Para rodar, peça no Claude Code: "use o skill-creator para rodar os evals da skill linguagem-simples". Ele executa cada prompt com e sem a skill e compara as respostas com as expectativas.
 
 ## Estrutura do repositório
 
@@ -170,20 +209,24 @@ cd skills/linguagem-simples/scripts && python -m unittest test_verificar.py
 ├── .claude-plugin/
 │   ├── plugin.json              manifesto do plugin
 │   └── marketplace.json         permite instalar com /plugin marketplace add
+├── .github/workflows/testes.yml testes automáticos
 ├── fontes/                      os quatro guias da Unicamp em texto puro
 ├── skills/
 │   ├── linguagem-simples/
 │   │   ├── SKILL.md
+│   │   ├── evals/evals.json     casos de teste da skill
 │   │   ├── references/
 │   │   │   ├── regras-linguagem-simples.md   o guia consolidado
 │   │   │   ├── padroes-ia.md                 catálogo de padrões de IA em pt-BR
 │   │   │   ├── redacao-oficial.md            tratamento, datas, siglas, espécies de documento
-│   │   │   └── exemplos.md                   seis casos antes e depois
+│   │   │   └── exemplos.md                   seis casos antes e depois (também usados na calibração)
 │   │   └── scripts/
 │   │       ├── verificar.py
 │   │       └── test_verificar.py
 │   └── sem-cara-de-ia/
-│       └── SKILL.md
+│       ├── SKILL.md
+│       └── evals/evals.json
+├── CHANGELOG.md
 ├── LICENSE
 └── README.md
 ```
@@ -223,6 +266,8 @@ Abra uma issue ou um pull request com:
 - um padrão de IA em pt-BR que não está no catálogo, com um exemplo real;
 - um falso positivo do verificador, com o trecho;
 - um exemplo antes e depois de outro tipo de documento.
+
+Ao mudar o verificador, rode os testes. Se acrescentar um exemplo em `exemplos.md` com os rótulos **Burocrático**, **Cara de IA** e **Final**, ele entra na calibração automaticamente. Anote a mudança no [CHANGELOG](CHANGELOG.md).
 
 ## Licença
 
