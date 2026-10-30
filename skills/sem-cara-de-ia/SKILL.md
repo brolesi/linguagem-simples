@@ -51,6 +51,8 @@ Sem amostra, use uma voz neutra e variada, adequada ao gênero.
    ```
    Ele mede o ritmo, encontra as expressões e estruturas típicas e remove dúvidas sobre caracteres invisíveis. Os achados de "frase longa" e "sigla sem explicação" são critérios de linguagem simples: em texto que não é para o público geral, use com moderação.
 3. Faça a caça prioritária: paralelismo negativo, ritmo uniforme, trios, listas com rótulo, gerúndio de enfeite, molduras, teatro de revelação, editorializar, restos de chatbot.
+   - O trio também se esconde no anúncio: "aprendi três lições", "três pilares", "cinco dicas". Se o número só existe para organizar o post, tire o número e diga as coisas.
+   - Pergunta de engajamento no fim ("E você, o que acha?", "Qual dessas pesa mais para você?") é a mesma liturgia de "deixe nos comentários", só mais educada. Corte, a menos que o autor peça para manter. Termine no último ponto do texto.
 4. Reescreva conforme o modo.
 5. Confira se algum fato, número, nome ou compromisso mudou. Se mudou, desfaça.
 6. **Passada final.** Pergunte: "o que ainda faz este texto parecer escrito por IA?" Responda em uma ou duas linhas. Quase sempre é estrutura: simetria, previsibilidade, fecho redondo. Corrija e entregue.

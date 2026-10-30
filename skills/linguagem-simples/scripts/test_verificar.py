@@ -95,6 +95,10 @@ class TestVerificar(unittest.TestCase):
         texto = frase * 120 + "Além disso, o prazo mudou. Além disso, a sala mudou."
         self.assertNotIn("expressão repetida", categorias(analisar(texto)))
 
+    def test_rotulo_em_negrito_fora_de_lista(self):
+        r = analisar("**Quando:** sábado, 14 de junho\n**Onde:** Praça da Matriz\n")
+        self.assertIn("lista com rótulo em negrito", categorias(r))
+
     def test_texto_vazio(self):
         r = analisar("")
         self.assertEqual(r["palavras"], 0)
@@ -135,7 +139,7 @@ class TestRepositorio(unittest.TestCase):
 
     def test_links_relativos_existem(self):
         for md in self.RAIZ.rglob("*.md"):
-            if "nao-vai" in md.parts:
+            if {"nao-vai", "evals-workspace"} & set(md.parts):  # pastas fora do Git
                 continue
             for alvo in re.findall(r"\]\(([^)#\s]+)(?:#[^)]*)?\)", md.read_text(encoding="utf-8")):
                 if not re.match(r"[a-z]+:", alvo):

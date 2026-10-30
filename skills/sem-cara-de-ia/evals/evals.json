@@ -11,7 +11,9 @@
         "A lista com rótulos em negrito virou frase corrida ou lista sem rótulo",
         "Não há emoji nem 'deixe nos comentários'",
         "Não inventou caso, empresa, número ou experiência que não estava no original",
-        "Avisa que o original tem pouca substância concreta"
+        "Avisa que o original tem pouca substância concreta",
+        "O texto final não termina com pergunta de engajamento ao leitor",
+        "Não anuncia um número de lições ('três lições', 'três coisas')"
       ]
     },
     {
@@ -28,25 +30,26 @@
     },
     {
       "id": 3,
-      "prompt": "Deixa este e-mail mais natural, modo leve: 'Olá, Marina! Espero que esteja bem. Gostaria de destacar que o relatório foi finalizado e encontra-se disponível na pasta compartilhada. Fico à disposição para quaisquer esclarecimentos que se façam necessários. Abraços!'",
-      "expected_output": "E-mail quase igual, só sem os vícios fortes, mantendo o tom cordial.",
+      "prompt": "Deixa este e-mail mais natural, modo leve. Escrevo sempre assim, curto e meio informal:\n\nOi Marina, tudo certo? Gostaria de destacar que o relatório foi finalizado e encontra-se disponível na pasta compartilhada, garantindo que toda a equipe tenha acesso às informações. Se precisar de algo é só falar, tô por aqui pra ajudar. Bjs",
+      "expected_output": "Mesmo e-mail, com a voz da autora ('Oi Marina', 'tô', 'pra', 'Bjs'), sem 'Gostaria de destacar' e sem o gerúndio.",
       "files": [],
       "expectations": [
-        "Mantém a informação: relatório pronto, na pasta compartilhada",
-        "Corta 'gostaria de destacar que' e 'que se façam necessários'",
-        "Mantém a estrutura de e-mail curto e o tom cordial",
-        "Não acrescenta informação nova (prazo, link, nome da pasta)"
+        "Mantém 'Oi Marina', 'tô', 'pra' e 'Bjs' (marcas da voz da autora)",
+        "Corta 'Gostaria de destacar que' e o gerúndio ', garantindo que toda a equipe…'",
+        "Não troca o registro: nada de 'Prezada', 'Atenciosamente' ou 'Fico à disposição'",
+        "Não acrescenta exclamação, emoji nem informação nova"
       ]
     },
     {
       "id": 4,
-      "prompt": "Humaniza este texto. Ele tem caracteres estranhos copiados de um PDF: 'O​ prazo de inscrição termina dia 10. Os can­didatos devem enviar o formulário.'",
-      "expected_output": "Texto limpo e aviso de que havia um espaço de largura zero e um hífen invisível.",
+      "prompt": "Humaniza este texto pro site: 'O​ prazo de inscrição termina dia 10. Os can­didatos devem enviar o formulário pelo pоrtal.'",
+      "expected_output": "Texto limpo, com aviso de que havia espaço de largura zero, hífen invisível e uma letra cirílica em 'portal'.",
       "files": [],
       "expectations": [
-        "Remove o espaço de largura zero e o hífen invisível",
-        "Avisa quais e quantos caracteres invisíveis foram removidos",
-        "Preserva o prazo 'dia 10'"
+        "Remove o espaço de largura zero (U+200B) e o hífen invisível (U+00AD)",
+        "Troca o 'о' cirílico de 'portal' pela letra latina",
+        "Avisa quais caracteres escondidos encontrou, sem que o pedido tenha mencionado isso",
+        "Preserva o prazo 'dia 10' e o envio pelo portal"
       ]
     }
   ]

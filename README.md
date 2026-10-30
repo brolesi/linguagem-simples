@@ -189,7 +189,7 @@ Alguns cuidados contra falso positivo:
 cd skills/linguagem-simples/scripts && python -m unittest test_verificar.py
 ```
 
-São 22 testes: as regras do verificador, os casos de borda, a calibração acima, a linha de comando e a integridade do repositório (links relativos, manifestos do plugin, frontmatter das skills). O [GitHub Actions](.github/workflows/testes.yml) roda tudo em Linux e Windows, com Python 3.9 e 3.13, a cada push e pull request.
+São 23 testes: as regras do verificador, os casos de borda, a calibração acima, a linha de comando e a integridade do repositório (links relativos, manifestos do plugin, frontmatter das skills). O [GitHub Actions](.github/workflows/testes.yml) roda tudo em Linux e Windows, com Python 3.9 e 3.13, a cada push e pull request.
 
 ## Evals das skills
 
@@ -197,8 +197,8 @@ O verificador mede o texto. Os evals medem a skill: se ela segue o processo, pre
 
 | Skill | Casos | O que cobrem |
 |---|---|---|
-| `linguagem-simples` | 8 | Aviso do zero, ofício burocrático, texto legal com números, revisão sem reescrita, e-mail sem dados (precisa usar `[INFORMAR]`), edital com exceção, FAQ, trecho ambíguo |
-| `sem-cara-de-ia` | 4 | Post de LinkedIn sem substância, diagnóstico sem reescrita, modo leve num e-mail, caracteres invisíveis |
+| `linguagem-simples` | 8 | Aviso do zero, ofício burocrático com data, tratamento e sigla para corrigir, texto legal com números, revisão sem reescrita, e-mail sem dados (precisa usar `[INFORMAR]`), edital com exceção, FAQ, trecho ambíguo |
+| `sem-cara-de-ia` | 4 | Post de LinkedIn sem substância, diagnóstico sem reescrita, modo leve que preserva a voz da autora, caracteres invisíveis e letra cirílica escondidos (sem avisar no pedido) |
 
 Para rodar, peça no Claude Code: "use o skill-creator para rodar os evals da skill linguagem-simples". Ele executa cada prompt com e sem a skill e compara as respostas com as expectativas.
 

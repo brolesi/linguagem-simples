@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.2.0 (2026-10-30)
+
+Ajustes a partir da primeira rodada de evals (12 casos, com e sem skill: 100% contra 70%).
+
+- **Verificador:** rótulo em negrito fora de lista com marcador ("**Quando:** sábado") passou a ser detectado.
+- **`linguagem-simples`:** FAQ e página de serviço só trazem perguntas que dá para responder com o material recebido; as outras vão como sugestão no fim.
+- **`sem-cara-de-ia`:** trata como vício o número anunciado ("aprendi três lições") e a pergunta de engajamento no fim do post.
+- **Evals:** três casos não diferenciavam a skill do modelo sozinho e foram endurecidos: ofício com data, tratamento abolido e sigla para corrigir; e-mail em modo leve que precisa preservar a voz da autora; caracteres invisíveis e letra cirílica escondidos sem que o pedido avise. Dois casos ganharam expectativas novas.
+
 ## 1.1.0 (2026-10-29)
 
 **Verificador**

@@ -17,15 +17,18 @@
     },
     {
       "id": 2,
-      "prompt": "Reescreva em linguagem simples, mantendo a formalidade:\n\nSenhor Diretor,\n\nVimos, por meio deste, levar ao conhecimento de Vossa Senhoria que se faz necessária a substituição dos equipamentos de informática do Laboratório de Ensino, tendo em vista que os mesmos encontram-se em estado de obsolescência. Outrossim, informamos que o orçamento em epígrafe segue anexo.\n\nSem mais para o momento, reiteramos protestos de elevada estima e consideração.",
-      "expected_output": "Ofício que abre com 'Solicitamos', sem chavões, com fecho 'Atenciosamente,' e marcação [INFORMAR] para dados que faltam (quantidade, valor).",
+      "prompt": "Reescreva em linguagem simples, mantendo a formalidade:\n\nCampinas, 05 de Novembro de 2026\n\nIlmo. Sr.\nDr. Carlos Mendes\nDiretor da DGA\n\nPrezados Senhores,\n\nVimos, por meio deste, solicitar a V. Sa. a gentileza de autorizar a substituição dos equipamentos de informática do Laboratório de Ensino, conforme Processo nº 03-P-1234/2026, tendo em vista que os mesmos encontram-se em estado de obsolescência. Outrossim, solicitamos que a resposta seja enviada até 30/11/2026, data-limite para empenho da verba.\n\nSem mais para o momento, reiteramos protestos de elevada estima e consideração.",
+      "expected_output": "Ofício com data no formato oficial, sem 'Ilmo.', vocativo no singular, pedido na primeira frase, processo e prazo preservados, sigla DGA explicada e fecho correto.",
       "files": [],
       "expectations": [
-        "A primeira frase do corpo é o pedido, começando por verbo (Solicitamos ou equivalente)",
-        "Não restou 'vimos, por meio deste', 'outrossim', 'em epígrafe', 'sem mais para o momento' nem 'reiteramos protestos'",
-        "O fecho é 'Atenciosamente,' ou 'Respeitosamente,' com vírgula",
-        "O texto continua impessoal: sem 'eu acho', sem opinião, sem exclamação",
-        "Não inventou quantidade de computadores nem valor do orçamento; se citou, usou [INFORMAR: ...]"
+        "A data está como 'Campinas, 5 de novembro de 2026.' (sem zero à esquerda, mês em minúscula, ponto-final)",
+        "Não usa 'Ilmo.' nem 'Ilustríssimo'",
+        "O vocativo é no singular e corresponde ao cargo ('Senhor Diretor,'), não 'Prezados Senhores'",
+        "A primeira frase do corpo é o pedido, começando por 'Solicitamos' ou 'Solicito'",
+        "O Processo nº 03-P-1234/2026 e o prazo de 30 de novembro de 2026 foram preservados",
+        "A sigla DGA aparece com o nome completo ou fica marcada como [INFORMAR] para o nome por extenso",
+        "Não restou 'Vimos, por meio deste', 'Outrossim', 'Sem mais para o momento' nem 'reiteramos protestos'",
+        "O fecho é 'Respeitosamente,' ou 'Atenciosamente,' com vírgula"
       ]
     },
     {
@@ -87,7 +90,8 @@
         "As perguntas são dúvidas reais de quem pede o diploma, não perguntas retóricas",
         "Cada resposta começa pela resposta, não por contexto",
         "Usa somente taxa, prazo e canal fornecidos",
-        "As respostas não têm todas o mesmo tamanho nem o mesmo formato"
+        "As respostas não têm todas o mesmo tamanho nem o mesmo formato",
+        "Nenhuma pergunta do FAQ tem como resposta apenas uma marcação [INFORMAR]"
       ]
     },
     {

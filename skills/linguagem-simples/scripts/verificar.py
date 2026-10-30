@@ -436,10 +436,12 @@ def analisar(bruto):
         if len(ps) >= 3 and sum(p[0].isupper() for p in ps[1:]) >= max(2, 0.6 * (len(ps) - 1)) and not t.isupper():
             achados.append({"categoria": "título em Title Case", "peso": 2, "linha": n, "trecho": t,
                             "sugestao": "em português, maiúscula só na primeira palavra e em nomes próprios"})
-    rotulos = [(n, i) for n, i in itens if re.match(r"\*\*[^*]{1,40}\*\*\s*:|\*\*[^*]{1,40}:\*\*", i)]
+    # Vale para item de lista e para linha solta ("**Quando:** sábado"), que é o mesmo vício.
+    rotulos = [n for n, l in enumerate(texto.splitlines(), 1)
+               if re.match(r"\s*(?:(?:[-*•]|\d+[.)])\s+)?(?:\*\*[^*]{1,40}\*\*\s*:|\*\*[^*]{1,40}:\*\*)", l)]
     if len(rotulos) >= 2:
-        achados.append({"categoria": "lista com rótulo em negrito", "peso": 2, "linha": rotulos[0][0],
-                        "trecho": f"{len(rotulos)} itens no formato '**Rótulo:** frase'",
+        achados.append({"categoria": "lista com rótulo em negrito", "peso": 2, "linha": rotulos[0],
+                        "trecho": f"{len(rotulos)} linhas no formato '**Rótulo:** frase'",
                         "sugestao": "tire o rótulo ou transforme em frase corrida"})
     negritos = len(re.findall(r"\*\*[^*]+\*\*", texto))
     if total_palavras and negritos / total_palavras * 100 > 2:

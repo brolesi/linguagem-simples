@@ -56,6 +56,8 @@ Siga [references/regras-linguagem-simples.md](references/regras-linguagem-simple
 - **Lista só para itens de verdade:** documentos, passos, datas, requisitos. Raciocínio vai em parágrafo.
 - **Título só em texto longo**, e título que informa ("Como pedir a segunda via"). Maiúscula só na primeira palavra e em nome próprio.
 
+**FAQ e páginas de serviço:** escreva só as perguntas que você consegue responder com o material recebido. Uma seção cuja resposta inteira seria `[INFORMAR: …]` não ajuda quem lê e deixa a página com cara de molde. Liste essas perguntas no fim, em "perguntas que valeria incluir, se você tiver a resposta".
+
 Para documento oficial (ofício, memorando, portaria, e-mail institucional, ata), leia também [references/redacao-oficial.md](references/redacao-oficial.md): tratamento, vocativo, fecho, data, horas, siglas, estrutura de cada espécie.
 
 ### 3. Tirar a cara de IA
